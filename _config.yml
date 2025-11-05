@@ -24,10 +24,10 @@ repository               : "https://chenyw68.github.io/Chen-YW/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Yewen Chen"
+  name             : "Yewen Chen"
   pronouns         :  "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "United State"
+  location         : "The United States of America"
   employer         : "University of Georgia"
   uri              : # URL
   email            : "yewen.chen@uga.edu" 
