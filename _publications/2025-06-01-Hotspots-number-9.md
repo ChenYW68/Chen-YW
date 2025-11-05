@@ -1,5 +1,5 @@
 ---
-title: "Identifying key aspects to enhance predictive modeling for early identification of schistosomiasis hotspots to guide mass drug administration"
+title: "[9] Identifying key aspects to enhance predictive modeling for early identification of schistosomiasis hotspots to guide mass drug administration"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-Hotspots-number-9

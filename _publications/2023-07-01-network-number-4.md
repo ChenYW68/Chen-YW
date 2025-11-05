@@ -1,5 +1,5 @@
 ---
-title: "Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study"
+title: "[4] Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-07-01-network-number-4

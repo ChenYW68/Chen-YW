@@ -1,5 +1,5 @@
 ---
-title: "Effective and robust clustering for spatiotemporally dependent data"
+title: "[6] Effective and robust clustering for spatiotemporally dependent data"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4

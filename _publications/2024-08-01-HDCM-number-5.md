@@ -1,5 +1,5 @@
 ---
-title: "Efficient and effective calibration of numerical model outputs using hierarchical dynamic models"
+title: "[5] Efficient and effective calibration of numerical model outputs using hierarchical dynamic models"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-01-HDCM-number-5

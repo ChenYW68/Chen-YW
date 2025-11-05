@@ -1,5 +1,5 @@
 ---
-title: "Predicting influenza vaccine-elicited antibody responses with practical point system"
+title: "[10] Predicting influenza vaccine-elicited antibody responses with practical point system"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-01-Vaccine-number-10

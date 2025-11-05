@@ -1,5 +1,5 @@
 ---
-title: "Additive dynamic models for correcting numerical model outputs"
+title: "[3] Additive dynamic models for correcting numerical model outputs"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-01-paper-title-number-2
