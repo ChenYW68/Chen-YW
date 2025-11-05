@@ -6,9 +6,9 @@ permalink: /publication/2025-10-01-JSTVC-number-11
 excerpt: 'This paper investigated direct and indirect treatment effects and ranked treatment regimens in spacetime-dependent cluster randomized trials'
 date: 2025-10-01
 venue: 'Peer review'
-%slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
-%paperurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
-%bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Shen2025predicting.bib'
+slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
+paperurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
+bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Shen2025predicting.bib'
 citation: 'Chen Y, Wen X, Luo F, Yang Y, and Shen Y. (2025). &quot;Estimating direct and indirect treatment effects and ranking treatment regimens in spacetime-dependent cluster randomized trials: a Schistosomiasis case study.&quot; <i>Peer review</i>.'
 ---
 
