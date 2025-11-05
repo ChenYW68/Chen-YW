@@ -24,10 +24,10 @@ repository               : "https://chenyw68.github.io/Chen-YW/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Yewen Chen"
+  name             : "Yewen Chen"
   pronouns         :  "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "United State"
+  bio              : "Dr. Chen earned his PhD in Statistics in 2023 from <a href='https://www.sysu.edu.cn/sysuen/' target='_blank'> Sun Yat-sen University</a>, under the supervision of <a href='https://www.researchgate.net/profile/Hui-Huang-92' target='_blank'> Prof. Hui Huang</a>, and is currently a Postdoctoral Associate in Epidemiology and Biostatistics at the University of Georgia, supervised by <a href='https://www.researchgate.net/profile/Ye-Shen-2' target='_blank'> Prof. Ye Shen</a>. He has extensive experience in developing advanced statistical methodologies and highly efficient Bayesian ensemble algorithms for complex dependent data, with applications in environmental science and public health."
+  location         : "The United States of America"
   employer         : "University of Georgia"
   uri              : # URL
   email            : "yewen.chen@uga.edu" 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9969-5137"
   semantic         : # URL
-  pubmed           : "https://scholar.google.com/citations?user=pxLpqLMAAAAJ&hl=en"
+  pubmed           : #"https://scholar.google.com/citations?user=pxLpqLMAAAAJ&hl=en"
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ChenYW68"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
