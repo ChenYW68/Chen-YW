@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yewen Chen"
   pronouns         :  "he/him"  
-  bio              : "Dr. Chen earned his PhD in Statistics in 2023 and is currently a postdoctoral fellow in Epidemiology and Biostatistics at the University of Georgia. He has extensive experience in developing advanced statistical methodologies and highly efficient Bayesian ensemble algorithms for complex dependent data, with applications in environmental science and public health."
+  bio              : "Dr. Chen earned his PhD in Statistics in 2023 from Sun Yat-sen University, under the supervision of <a href='https://www.researchgate.net/profile/Hui-Huang-92' target='_blank'> Prof. Hui Huang, and is currently a Postdoctoral Associate in Epidemiology and Biostatistics at the University of Georgia, supervised by <a href='https://www.researchgate.net/profile/Ye-Shen-2' target='_blank'> Prof. Ye Shen. He has extensive experience in developing advanced statistical methodologies and highly efficient Bayesian ensemble algorithms for complex dependent data, with applications in environmental science and public health."
   location         : "The United States of America"
   employer         : "University of Georgia"
   uri              : # URL
