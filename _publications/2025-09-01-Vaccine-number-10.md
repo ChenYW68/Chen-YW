@@ -6,8 +6,8 @@ permalink: /publication/2025-09-01-Vaccine-number-10
 excerpt: 'This paper developed point system for influenza vaccination.'
 date: 2025-09-01
 venue: 'Vaccine'
-slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
-paperurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
+slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point systems.pdf'
+paperurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point systems.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Shen2025predicting.bib'
 citation: 'Shen Y, Sung M, Ge Y, Chen Y, Carlock M, et al. (2025). &quot;Predicting influenza vaccine-elicited antibody responses with practical point system.&quot; <i>Vaccine</i>. 64: 127737.'
 ---
