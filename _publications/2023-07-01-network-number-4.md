@@ -1,0 +1,14 @@
+---
+title: "Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-07-01-network-number-4
+excerpt: 'This paper investigated social mixing and network characteristics of COVID-19 patients.'
+date: 2023-07-01
+venue: 'Epidemiology \& Infection'
+slidesurl: 'https://chenyw68.github.io/Chen-YW/files/files/Social-mixing-and-network-characteristics-of-covid-19-patients-before-and-after-widespread-interventions-a-population-based-study.pdf'
+paperurl: 'https://chenyw68.github.io/Chen-YW/files/files/Social-mixing-and-network-characteristics-of-covid-19-patients-before-and-after-widespread-interventions-a-population-based-study.pdf'
+bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/he2023social.bib'
+citation: 'He Y, Martinez L., Ge Y, Feng Y, Chen Y, et al.(2023). &quot;Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study.&quot; <i>Epidemiology \& Infection</i>. 151: e141.'
+---
+SARS-CoV-2 is fast spreading in the human population through social networks. Social mixing and network characteristics of COVID-19 patients are likely to facilitate transmission but are not well studied due to the limited availability of data with topological structural features. Few studies have reported on network structural features to date and all available studies have been based on a snapshot in time, prohibiting further investigations on temporal changes in such networks. Temporal comparisons of network characteristics will provide additional insights into the transmission dynamics. We investigated all confirmed COVID-19 patients from a province in eastern China with detailed transmission network information and studied social mixing and network characteristics by the transmission network's topology before and after widespread interventions. Between the two time periods, the percentage of singleton networks increased from 38.9% to 62.8% (p<0.001); the average shortest path length decreased from 1.53 to 1.14 (p<0.001); the average betweenness reduced from 0.65 to 0.11 (p<0.001); the average cluster size dropped from 4.05 to 2.72 (p=0.004); and the out-degree had a slight but nonsignificant decline from 0.75 to 0.63 (p=0.099). From the results, we have demonstrated that the implemented nonpharmaceutical interventions effectively disrupted the transmission networks, preventing the further spread of the disease. Furthermore, we investigated that the dynamic structure of the networks was more informative than the sole investigation of the curve of infection after applying descriptive and agent-based modeling approaches. In summary, we investigated the social mixing and network characteristics of COVID-19 patients during distinct periods of the pandemic and discovered heterogeneities of transmission networks.
