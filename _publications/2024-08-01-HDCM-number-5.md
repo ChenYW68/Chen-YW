@@ -1,7 +1,7 @@
 ---
 title: "Efficient and effective calibration of numerical model outputs using hierarchical dynamic models"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-08-01-HDCM-number-5
 excerpt: 'This paper developed hierarchical dynamic models with advanced variational Bayes and ensemble algorithm for addressing bias-correction.'
 date: 2024-08-01
