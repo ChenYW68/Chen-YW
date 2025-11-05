@@ -3,7 +3,7 @@ title: "Development and external validation of the FluScoreVax risk score for in
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-01-Logistic-number-8
-excerpt: 'This paper developed a risk score for influenza diagnosis'
+excerpt: 'This paper developed a risk score for influenza diagnosis.'
 date: 2025-03-01
 venue: 'The Journal of the American Board of Family Medicine'
 slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Development and External Validation of the FluScoreVax Risk Score for Influenza That Incorporates Vaccine Status.pdf'

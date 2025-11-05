@@ -3,7 +3,7 @@ title: "Effective and robust clustering for spatiotemporally dependent data"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper investigated clustering problems for spatiotemporally dependent data'
+excerpt: 'This paper investigated clustering problems for spatiotemporally dependent data.'
 date: 2024-02-17
 venue: 'Metrika'
 slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Effective and robust clustering for spatiotemporally dependent data.pdf'

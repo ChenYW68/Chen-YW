@@ -3,7 +3,7 @@ title: "Predicting influenza vaccine-elicited antibody responses with practical 
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-01-Vaccine-number-10
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper developed point system for influenza vaccination.'
 date: 2025-09-01
 venue: 'Vaccine'
 slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'

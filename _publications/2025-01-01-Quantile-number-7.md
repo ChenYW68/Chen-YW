@@ -3,7 +3,7 @@ title: "Composite quantile regression for a distributed system with non-randomly
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-Quantile-number-7
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper proposed a novel estimation method for composite quantile regression.'
 date: 2025-01-01
 venue: 'Statistical Papers'
 slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Composite quantile regression for a distributed system with non-randomly distributed data.pdf'
