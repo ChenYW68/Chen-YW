@@ -1,7 +1,7 @@
 ---
-title: "[1] Estimating direct and indirect treatment effects and ranking treatment regimens in spacetime-dependent cluster randomized trials: a Schistosomiasis case study"
+title: "[11] Estimating direct and indirect treatment effects and ranking treatment regimens in spacetime-dependent cluster randomized trials: a Schistosomiasis case study"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-10-01-JSTVC-number-11
 excerpt: 'This paper investigated direct and indirect treatment effects and ranked treatment regimens in spacetime-dependent cluster randomized trials'
 date: 2025-10-01
