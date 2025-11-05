@@ -7,7 +7,7 @@ excerpt: 'This paper develops the theoretical framework for change-point detecti
 date: 2021-07-01
 venue: 'Acta Mathematicae Applicatae Sinica'
 slidesurl: 'https://chenyw68.github.io/Chen-YW/files/slides1.pdf'
-paperurl: 'https://chenyw68.github.io/Chen-YW/files/paper1.pdf'
+paperurl: 'https://chenyw68.github.io/Chen-YW/files/Generalized Pareto distribution change point detection model and its application in modeling return period prediction.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/bibtex1.bib'
 citation: 'Hu Y, Chen Y (2021). &quot;A likelihood ratio model for change point detection of generalized Pareto distribution.&quot; <i>Acta Mathematicae Applicatae Sinica</i>. 44(04): 553-573.'
 ---
