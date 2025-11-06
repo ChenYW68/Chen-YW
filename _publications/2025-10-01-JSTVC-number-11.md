@@ -17,7 +17,7 @@ Accurate estimation of treatment effects and reliable ranking of treatment regim
 <figure id="Figure1">
   <table align="center">
     <tr>
-      <td><img src="https://chenyw68.github.io/Chen-YW/images/Papers/JSTVC-Fig4_Ranks.jpg" width="800px"></td>
+      <td><img src="https://chenyw68.github.io/Chen-YW/images/Papers/JSTVC-Fig4_Ranks.jpg" width="500px"></td>
     </tr>
   </table>
   <figcaption align="center">
@@ -28,7 +28,7 @@ Accurate estimation of treatment effects and reliable ranking of treatment regim
 <figure id="Figure2">
   <table align="center">
     <tr>
-      <td><img src="https://chenyw68.github.io/Chen-YW/images/Papers/JSTVC-Fig6_Kenya_Wts.jpg" width="800px"></td>
+      <td><img src="https://chenyw68.github.io/Chen-YW/images/Papers/JSTVC-Fig6_Kenya_Wts.jpg" width="500px"></td>
     </tr>
   </table>
   <figcaption align="center">
