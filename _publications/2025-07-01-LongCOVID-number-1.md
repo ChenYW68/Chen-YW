@@ -2,7 +2,7 @@
 title: "Mapping long COVID: spatial and social inequities across the United States"
 collection: publications
 category: conferences
-permalink: /publication/2025-07-01-LongCOVID-number-1.md
+permalink: /publication/2025-07-01-LongCOVID-number-1
 excerpt: 'This paper investigated the spatiotemporal patterns of long COVID incidence.'
 date: 2025-07-01
 venue: 'Peer review'
