@@ -15,13 +15,11 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category %}
     {% assign title_shown = false %}
-    {% assign posts_in_category = site.publications | where: "category", category[0] %}
+    {% assign posts_in_category = site.publications | where: "category", category[0] | reverse %}
     {% assign total = posts_in_category | size %}
+    {% assign counter = total %}
     
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
+    {% for post in posts_in_category %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
@@ -29,18 +27,21 @@ author_profile: true
       
       <!-- 添加编号 - 与标题在同一行 -->
       <div class="publication-item">
-        <span class="publication-number">[{{ total | minus: forloop.index0 }}]</span>
+        <span class="publication-number">[{{ counter }}]</span>
         {% include archive-single.html %}
       </div>
+      {% assign counter = counter | minus: 1 %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% assign total = site.publications | size %}
+  {% assign counter = total %}
   {% for post in site.publications reversed %}
     <div class="publication-item">
-      <span class="publication-number">[{{ total | minus: forloop.index0 }}]</span>
+      <span class="publication-number">[{{ counter }}]</span>
       {% include archive-single.html %}
     </div>
+    {% assign counter = counter | minus: 1 %}
   {% endfor %}
 {% endif %}
 
@@ -53,8 +54,8 @@ author_profile: true
 
 .publication-number {
   font-weight: bold;
-  margin-right: 10px;
+  margin-right: 5px; /* 从10px减少到5px */
   flex-shrink: 0;
-  min-width: 40px; /* 确保编号有固定宽度对齐 */
+  min-width: 35px; /* 稍微减小最小宽度 */
 }
 </style>
