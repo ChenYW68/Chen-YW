@@ -49,7 +49,7 @@ author_profile: true
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: 0.5em; /* 恢复合理的间距 */
+  margin-bottom: 0.5em;
 }
 
 .publication-number {
@@ -59,19 +59,30 @@ author_profile: true
   min-width: 25px;
 }
 
-/* 重置 archive-single.html 可能带来的间距 */
+/* 缩小文章内部所有元素的行间距 */
 .publication-item .archive__item {
-  margin: 0;
-  padding: 0;
+  line-height: 1.2 !important;
 }
 
 .publication-item .archive__item-title {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  line-height: 1.2 !important;
+  margin-bottom: 0.1em !important;
 }
 
 .publication-item .archive__item-excerpt {
-  margin-top: 0.2em !important;
-  margin-bottom: 0 !important;
+  line-height: 1.2 !important;
+  margin-top: 0.1em !important;
+  margin-bottom: 0.1em !important;
+}
+
+.publication-item .archive__item-meta {
+  line-height: 1.2 !important;
+  margin-bottom: 0.1em !important;
+}
+
+/* 如果有作者信息 */
+.publication-item .archive__item-authors {
+  line-height: 1.2 !important;
+  margin-bottom: 0.1em !important;
 }
 </style>
