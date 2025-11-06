@@ -21,7 +21,7 @@ author_profile: true
     
     {% for post in posts_in_category %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0.5em;">{{ category[1].title }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
       
@@ -49,14 +49,58 @@ author_profile: true
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: 0.3em; /* 减小行间距 */
-  line-height: 1.2; /* 调整行高 */
+  margin-bottom: 0.1em !important;
+  padding-bottom: 0 !important;
 }
 
 .publication-number {
   font-weight: bold;
-  margin-right: 3px; /* 进一步减小序号与标题的间距 */
+  margin-right: 5px;
   flex-shrink: 0;
-  min-width: 20px;
+  min-width: 25px;
+}
+
+/* 强制重置 archive-single.html 中的所有间距 */
+.publication-item .archive__item,
+.publication-item .archive__item * {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  line-height: 1.1 !important;
+}
+
+/* 特别处理段落 */
+.publication-item p {
+  margin: 0.1em 0 !important;
+  padding: 0 !important;
+  line-height: 1.1 !important;
+}
+
+/* 去掉所有超链接的下划线 */
+.publication-item a {
+  text-decoration: none !important;
+}
+
+.publication-item a:hover {
+  text-decoration: none !important;
+}
+
+/* 分类标题去掉横线 */
+h2 {
+  border-bottom: none !important;
+  margin-bottom: 0.3em !important;
+}
+
+/* 强制移除所有可能的间隙 */
+.publication-item br {
+  display: none !important;
+}
+
+.publication-item hr {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 0 !important;
 }
 </style>
