@@ -27,7 +27,7 @@ author_profile: true
       
       <!-- 添加编号 - 与标题在同一行 -->
       <div class="publication-item">
-        <span class="publication-number">[{{ counter }}]</span>
+        <span class="publication-number">({{ counter }})</span>
         {% include archive-single.html %}
       </div>
       {% assign counter = counter | minus: 1 %}
@@ -38,7 +38,7 @@ author_profile: true
   {% assign counter = total %}
   {% for post in site.publications reversed %}
     <div class="publication-item">
-      <span class="publication-number">[{{ counter }}]</span>
+      <span class="publication-number">({{ counter }})</span>
       {% include archive-single.html %}
     </div>
     {% assign counter = counter | minus: 1 %}
@@ -49,13 +49,14 @@ author_profile: true
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: 0.5em; /* 从1em减少到0.5em */
+  margin-bottom: 0.3em; /* 减小行间距 */
+  line-height: 1.2; /* 调整行高 */
 }
 
 .publication-number {
   font-weight: bold;
-  margin-right: 0px;
+  margin-right: 3px; /* 进一步减小序号与标题的间距 */
   flex-shrink: 0;
-  min-width: 50px;
+  min-width: 20px;
 }
 </style>
