@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-08-01-Conterfactural-number-1
 excerpt: 'This paper investigated epidemiology of influenza using change-point detection and interrupted time-series models.'
 date: 2025-08-01
-venue: 'Peer review'
+venue: 'XXX'
 slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
 paperurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Shen2025predicting.bib'
