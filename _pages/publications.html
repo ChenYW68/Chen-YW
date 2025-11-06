@@ -27,23 +27,34 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       
-      <!-- 添加编号 -->
-      <div style="display: flex; align-items: flex-start;">
-        <span style="margin-right: 10px; font-weight: bold;">[{{ total | minus: forloop.index0 }}]</span>
-        <div>
-          {% include archive-single.html %}
-        </div>
+      <!-- 添加编号 - 与标题在同一行 -->
+      <div class="publication-item">
+        <span class="publication-number">[{{ total | minus: forloop.index0 }}]</span>
+        {% include archive-single.html %}
       </div>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% assign total = site.publications | size %}
   {% for post in site.publications reversed %}
-    <div style="display: flex; align-items: flex-start;">
-      <span style="margin-right: 10px; font-weight: bold;">[{{ total | minus: forloop.index0 }}]</span>
-      <div>
-        {% include archive-single.html %}
-      </div>
+    <div class="publication-item">
+      <span class="publication-number">[{{ total | minus: forloop.index0 }}]</span>
+      {% include archive-single.html %}
     </div>
   {% endfor %}
 {% endif %}
+
+<style>
+.publication-item {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1em;
+}
+
+.publication-number {
+  font-weight: bold;
+  margin-right: 10px;
+  flex-shrink: 0;
+  min-width: 40px; /* 确保编号有固定宽度对齐 */
+}
+</style>
