@@ -19,7 +19,7 @@ Work experience
   * Epidemiology and Biostatistics, University of Georgia
     
 * 2016-2018: Faculty
-  * Guizhou Minzu University
+  * Guizhou Minzu University, China
 
 * Winter 2015: Internship
   * SAS Institute Inc., Guangzhou, China
