@@ -13,8 +13,11 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-{% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
+    {% assign posts_in_category = site.publications | where: "category", category[0] %}
+    {% assign total = posts_in_category | size %}
+    
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
@@ -23,14 +26,24 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      
+      <!-- 添加编号 -->
+      <div style="display: flex; align-items: flex-start;">
+        <span style="margin-right: 10px; font-weight: bold;">[{{ total | minus: forloop.index0 }}]</span>
+        <div>
+          {% include archive-single.html %}
+        </div>
+      </div>
     {% endfor %}
   {% endfor %}
 {% else %}
+  {% assign total = site.publications | size %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <div style="display: flex; align-items: flex-start;">
+      <span style="margin-right: 10px; font-weight: bold;">[{{ total | minus: forloop.index0 }}]</span>
+      <div>
+        {% include archive-single.html %}
+      </div>
+    </div>
   {% endfor %}
 {% endif %}
-
-
-
