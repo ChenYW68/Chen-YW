@@ -2,7 +2,7 @@
 title: "A likelihood ratio model for change point detection of generalized Pareto distribution"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-07-01-Change-Point-Detection-number-1.md
+permalink: /publication/2021-07-01-Change-Point-Detection-number-1
 excerpt: 'This paper develops the theoretical framework for change-point detection in extreme events.'
 date: 2021-07-01
 venue: 'Acta Mathematicae Applicatae Sinica'
