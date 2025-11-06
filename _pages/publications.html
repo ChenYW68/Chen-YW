@@ -59,6 +59,18 @@ author_profile: true
   min-width: 25px;
 }
 
+/* 去掉所有超链接的下划线 */
+.publication-item a {
+  text-decoration: none !important;
+}
+
+/* 鼠标悬停时也可以选择是否显示下划线 */
+.publication-item a:hover {
+  text-decoration: none !important;
+  /* 或者如果想要悬停时有下划线，可以改为： */
+  /* text-decoration: underline !important; */
+}
+
 /* 缩小文章内部段落距离 */
 .publication-item .archive__item p {
   margin-top: 0.2em !important;
@@ -68,19 +80,6 @@ author_profile: true
 
 .publication-item .archive__item br {
   line-height: 0.8;
-}
-
-/* 如果有摘要或描述段落 */
-.publication-item .archive__item-excerpt,
-.publication-item .archive__item-description {
-  margin-top: 0.3em !important;
-  margin-bottom: 0.3em !important;
-}
-
-/* 确保标题没有下划线/横线 */
-.publication-item .archive__item-title {
-  border-bottom: none !important;
-  text-decoration: none !important;
 }
 
 /* 分类标题去掉横线 */
