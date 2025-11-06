@@ -13,9 +13,26 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+<!--  {% for category in site.publication_category  %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
+    {% for post in site.publications reversed %}-->
+{% for category in site.publication_category %}
+  {% assign title_shown = false %}
+  {% assign posts = site.publications | where: "category", category[0] | reverse %}
+  {% assign total = posts | size %}
+  {% for post in posts %}
+    {% unless title_shown %}
+      <h2>{{ category[1].title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    <p>
+      [{{ total | minus: forloop.index0 }}] 
+      <a href="{{ post.url }}">{{ post.title }}</a><br>
+      Published in {{ post.venue }}, {{ post.date | date: "%Y" }}<br>
+      {{ post.excerpt }}
+    </p>
+  {% endfor %}
+{% endfor %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -31,6 +48,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
