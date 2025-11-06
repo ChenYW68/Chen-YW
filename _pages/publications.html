@@ -49,14 +49,29 @@ author_profile: true
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: 0em; /* 减小行间距 */
-  line-height: 0.1; /* 调整行高 */
+  margin-bottom: 0.5em; /* 恢复合理的间距 */
 }
 
 .publication-number {
   font-weight: bold;
-  margin-right: 3px; /* 进一步减小序号与标题的间距 */
+  margin-right: 5px;
   flex-shrink: 0;
-  min-width: 20px;
+  min-width: 25px;
+}
+
+/* 重置 archive-single.html 可能带来的间距 */
+.publication-item .archive__item {
+  margin: 0;
+  padding: 0;
+}
+
+.publication-item .archive__item-title {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.publication-item .archive__item-excerpt {
+  margin-top: 0.2em !important;
+  margin-bottom: 0 !important;
 }
 </style>
