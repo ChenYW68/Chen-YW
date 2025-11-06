@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Sun Yat-sen University, China, 2018-2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-: Postdoctoral Associate
+  * Epidemiology and Biostatistics, University of Georgia
+    
+* 2016-2018: Faculty
+  * Guizhou Minzu University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Winter 2015: Internship
+  * SAS Institute Inc., Guangzhou, China
+  * Developing prediction models of Biostime infant milk
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* C++
+* SQL
+* Matlab
+* SAS
 
 Publications
 ======
