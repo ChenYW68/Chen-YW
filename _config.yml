@@ -255,7 +255,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: Peer reviewer
     values:
       layout: single
       author_profile: true
