@@ -45,5 +45,64 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+<style>
+.publication-item {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1.5em !important;
+  padding-bottom: 0 !important;
+}
 
+.publication-number {
+  font-weight: bold;
+  margin-right: 5px;
+  flex-shrink: 0;
+  min-width: 25px;
+}
+
+/* 强制重置 archive-single.html 中的所有间距 */
+.publication-item .archive__item,
+.publication-item .archive__item * {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  line-height: 1.5 !important;
+}
+
+/* 特别处理段落 */
+.publication-item p {
+  margin: 0.1em 0 !important;
+  padding: 0 !important;
+  line-height: 1.5 !important;
+}
+
+/* 去掉所有超链接的下划线 */
+.publication-item a {
+  text-decoration: none !important;
+}
+
+.publication-item a:hover {
+  text-decoration: none !important;
+}
+
+/* 分类标题去掉横线 */
+h2 {
+  border-bottom: none !important;
+  margin-bottom: 0.3em !important;
+}
+
+/* 强制移除所有可能的间隙 */
+/* .publication-item br {
+  display: none !important;
+}*/
+
+.publication-item hr {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 0 !important;
+}
+
+</style>
 
