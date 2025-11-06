@@ -1,5 +1,5 @@
 ---
-title: "[8] Development and external validation of the FluScoreVax risk score for influenza that incorporates vaccine status"
+title: "Development and external validation of the FluScoreVax risk score for influenza that incorporates vaccine status"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-01-Logistic-number-8

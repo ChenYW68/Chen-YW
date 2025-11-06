@@ -1,5 +1,5 @@
 ---
-title: "[2] Generalized Pareto distribution change-point detection model and its applications in modeling return period prediction"
+title: "Generalized Pareto distribution change-point detection model and its applications in modeling return period prediction"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-09-01-Change-Point-Detection-number-2

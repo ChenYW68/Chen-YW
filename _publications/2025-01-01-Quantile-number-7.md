@@ -1,5 +1,5 @@
 ---
-title: "[7] Composite quantile regression for a distributed system with non-randomly distributed data"
+title: "Composite quantile regression for a distributed system with non-randomly distributed data"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-Quantile-number-7

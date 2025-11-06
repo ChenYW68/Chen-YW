@@ -1,5 +1,5 @@
 ---
-title: "[1] A likelihood ratio model for change point detection of generalized Pareto distribution"
+title: "A likelihood ratio model for change point detection of generalized Pareto distribution"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-07-01-Change-Point-Detection-number-1.md
