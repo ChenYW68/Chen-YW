@@ -46,6 +46,20 @@ author_profile: true
 {% endif %}
 
 <style>
+  /* 让下载链接换行显示 */
+.publication-item .download-links {
+  display: block;
+  margin-top: 0.5em;
+}
+
+/* 或者如果下载链接有特定类名 */
+.publication-item a[href*="download"],
+.publication-item a[href*="paper"],
+.publication-item a[href*="slides"],
+.publication-item a[href*="bibtex"] {
+  display: block;
+}
+  
 .publication-item {
   display: flex;
   align-items: baseline;
