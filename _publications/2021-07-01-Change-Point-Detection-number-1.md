@@ -9,6 +9,6 @@ venue: 'Acta Mathematicae Applicatae Sinica'
 slidesurl: 'https://chenyw68.github.io/Chen-YW/files/A Likelihood Ratio Model for Change Point Detection of Generalized Pareto Distribution.pdf'
 paperurl: 'https://chenyw68.github.io/Chen-YW/files/A Likelihood Ratio Model for Change Point Detection of Generalized Pareto Distribution.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/HuChen2021.bib'
-citation: 'Hu Y and Chen Y. (2021). &quot;A likelihood ratio model for change point detection of generalized Pareto distribution.&quot; <i>Acta Mathematicae Applicatae Sinica</i>. 44(04): 553-573.'
+citation: 'Hu Y and <strong>Chen Y</strong>. (2021). &quot;A likelihood ratio model for change point detection of generalized Pareto distribution.&quot; <i>Acta Mathematicae Applicatae Sinica</i>. 44(04): 553-573.'
 ---
 To detect state changes in extreme events, the generalized Pareto distribution (GPD) change point detection model was studied based on likelihood ratio method. This paper considered the testing problem of the GPD change point with three parameters, and proposed maximization likelihood ratio test statistics. The asymptotic distribution of test statistic was obtained by proving a series of limit properties of the log-likelihood of GPD after parameter transformation and the test statistic. We evaluated the finite sample properties of the proposed method through simulation studies. The case study also verified the feasibility of the proposed method.
