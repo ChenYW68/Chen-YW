@@ -33,10 +33,18 @@ Skills
 * Matlab
 * SAS
 
+Academic Interest
+======
+* Predictive modeling, especially for data with spatiotemporal dependence
+* Development of highly efficient algorithms, such as variational Bayes and ensemble methods
+* Semiparametric modeling, such as kernel regression
+* Change point detection
+* Interdisciplinary applications
+
 Review activity 
 ======
-* Applied soft computing
-* Computational statistics & data analysis
+* Applied Soft Computing
+* Computational Statistics & Data Analysis
 * Aerosol and Air Quality Research
 
 Publications
