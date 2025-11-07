@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Sun Yat-sen University, China, 2018-2023
+* 2018-2023, Ph.D in Statistics, Sun Yat-sen University, China
 
 Work experience
 ======
 * 2023-: Postdoctoral Associate
-  * Epidemiology and Biostatistics, University of Georgia
+  * Epidemiology and Biostatistics, University of Georgia, USA
     
 * 2016-2018: Faculty
   * Guizhou Minzu University, China
@@ -32,6 +32,12 @@ Skills
 * SQL
 * Matlab
 * SAS
+
+Review activity 
+======
+* Applied soft computing
+* Computational statistics & data analysis
+* Aerosol and Air Quality Research
 
 Publications
 ======
