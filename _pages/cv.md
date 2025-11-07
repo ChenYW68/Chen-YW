@@ -39,7 +39,7 @@ Academic Interest
 * Development of highly efficient algorithms, such as variational Bayes and ensemble methods
 * Semiparametric modeling, such as kernel regression
 * Change point detection
-* Interdisciplinary applications
+* Interdisciplinary applications like infectious diseases such as schistosomiasis, vaccines such as influenza, and chronic diseases such as long COVID.
 
 Review activity 
 ======
