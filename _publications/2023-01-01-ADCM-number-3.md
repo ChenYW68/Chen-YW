@@ -7,7 +7,7 @@ excerpt: 'This paper developed additive dynamic models with high efficient algor
 date: 2023-06-01
 venue: 'Computational Statistics & Data Analysis'
 slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Additive dynamic models for correcting numerical model outputs.pdf'
-paperurl: 'https://chenyw68.github.io/Chen-YW/files/Additive dynamic models for correcting numerical model outputs.pdf'
+paperurl: 'https://chenyw68.github.io/Chen-YW/files/ADCM_CSDA.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Chen2023Correction.bib'
 citation: '<strong>Chen Y</strong>, Chang X, Luo F, and Huang H. (2023). &quot;Additive dynamic models for correcting numerical model outputs.&quot; <i>Computational Statistics & Data Analysis</i>. 107799.'
 ---
