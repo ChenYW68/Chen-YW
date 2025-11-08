@@ -6,8 +6,8 @@ permalink: /publication/2023-07-01-network-number-4
 excerpt: 'This paper investigated social mixing and network characteristics of COVID-19 patients.'
 date: 2023-07-01
 venue: 'Epidemiology & Infection'
-slidesurl: 'https://chenyw68.github.io/Chen-YW/files/files/Social-mixing-and-network-characteristics-of-covid-19-patients-before-and-after-widespread-interventions-a-population-based-study.pdf'
-paperurl: 'https://chenyw68.github.io/Chen-YW/files/files/Social-mixing-and-network-characteristics-of-covid-19-patients-before-and-after-widespread-interventions-a-population-based-study.pdf'
+slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Social-mixing-and-network-characteristics-of-covid-19-patients-before-and-after-widespread-interventions-a-population-based-study.pdf'
+paperurl: 'https://chenyw68.github.io/Chen-YW/files/Social-mixing-and-network-characteristics-of-covid-19-patients-before-and-after-widespread-interventions-a-population-based-study.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/he2023social.bib'
 citation: 'He Y, Martinez L, Ge Y, Feng Y, <strong>Chen Y</strong>, et al. (2023). &quot;Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study.&quot; <i>Epidemiology & Infection</i>. 151: e141.'
 ---
