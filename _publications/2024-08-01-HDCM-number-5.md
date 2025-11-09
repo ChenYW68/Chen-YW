@@ -6,8 +6,8 @@ permalink: /publication/2024-08-01-HDCM-number-5
 excerpt: 'This paper developed hierarchical dynamic models with advanced variational Bayes and ensemble algorithm for addressing bias-correction.'
 date: 2024-08-01
 venue: 'The Annals of Applied Statistics'
-slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Efficient and effective calibration of numerical model outputs using hierarchical dynamic models.pdf'
-paperurl: 'https://chenyw68.github.io/Chen-YW/files/HDCM_suppa.pdf'
+slidesurl: 'https://chenyw68.github.io/Chen-YW/files/HDCM_suppa.pdf'
+paperurl: 'https://chenyw68.github.io/Chen-YW/files/Efficient and effective calibration of numerical model outputs using hierarchical dynamic models.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Chen2024efficient.bib'
 citation: '<strong>Chen Y</strong>, Chang X, Zhang B, and Huang H. (2024). &quot;Efficient and effective calibration of numerical model outputs using hierarchical dynamic models.&quot; <i>The Annals of Applied Statistics</i>. 18(2): 1064-1089.'
 ---
