@@ -6,7 +6,7 @@ permalink: /publication/2021-09-01-Change-Point-Detection-number-2
 excerpt: 'This paper is about change point detection for extreme events.'
 date: 2021-09-01
 venue: 'Systems Engineering-Theory & Practice'
-slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Generalized Pareto distribution change point detection model and its application in modeling return period prediction.pdf'
+#slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Generalized Pareto distribution change point detection model and its application in modeling return period prediction.pdf'
 paperurl: 'https://chenyw68.github.io/Chen-YW/files/Generalized Pareto distribution change point detection model and its application in modeling return period prediction.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Hu2021GPD.bib'
 citation: 'Hu Y, <strong>Chen Y</strong>*, Wang X, and Liu W. (2021). &quot;Generalized Pareto distribution change-point detection model and its applications in modeling return period prediction.&quot; <i>Systems Engineering-Theory & Practice</i>. 41(09): 2379-2391.'
