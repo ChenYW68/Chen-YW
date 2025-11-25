@@ -6,7 +6,7 @@ permalink: /publication/2021-07-01-Change-Point-Detection-number-1
 excerpt: 'This paper develops the theoretical framework for change-point detection in extreme events.'
 date: 2021-07-01
 venue: 'Acta Mathematicae Applicatae Sinica'
-slidesurl: 'https://chenyw68.github.io/Chen-YW/files/A Likelihood Ratio Model for Change Point Detection of Generalized Pareto Distribution.pdf'
+#slidesurl: 'https://chenyw68.github.io/Chen-YW/files/A Likelihood Ratio Model for Change Point Detection of Generalized Pareto Distribution.pdf'
 paperurl: 'https://chenyw68.github.io/Chen-YW/files/A Likelihood Ratio Model for Change Point Detection of Generalized Pareto Distribution.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/HuChen2021.bib'
 citation: 'Hu Y and <strong>Chen Y</strong>. (2021). &quot;A likelihood ratio model for change point detection of generalized Pareto distribution.&quot; <i>Acta Mathematicae Applicatae Sinica</i>. 44(04): 553-573.'
