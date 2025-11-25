@@ -6,7 +6,7 @@ permalink: /publication/2025-01-01-Quantile-number-7
 excerpt: 'This paper proposed a novel estimation method for composite quantile regression.'
 date: 2025-01-01
 venue: 'Statistical Papers'
-slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Composite quantile regression for a distributed system with non-randomly distributed data.pdf'
+#slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Composite quantile regression for a distributed system with non-randomly distributed data.pdf'
 paperurl: 'https://chenyw68.github.io/Chen-YW/files/Composite quantile regression for a distributed system with non-randomly distributed data.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Jin2025composite.bib'
 citation: 'Jin J, Hao C, and <strong>Chen Y</strong>. (2025). &quot;Composite quantile regression for a distributed system with non-randomly distributed data.&quot; <i>Statistical Papers</i>. 66(1): 1.'
