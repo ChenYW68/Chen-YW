@@ -6,7 +6,7 @@ permalink: /publication/2024-12-01-paper-title-number-4
 excerpt: 'This paper investigated clustering problems for spatiotemporally dependent data.'
 date: 2024-12-01
 venue: 'Metrika'
-slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Effective and robust clustering for spatiotemporally dependent data.pdf'
+#slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Effective and robust clustering for spatiotemporally dependent data.pdf'
 paperurl: 'https://chenyw68.github.io/Chen-YW/files/Effective and robust clustering for spatiotemporally dependent data.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Wang2024effective.bib'
 citation: 'Wang F, Chen W, Hu Y, and <strong>Chen Y</strong>. (2024). &quot;Effective and robust clustering for spatiotemporally dependent data.&quot; <i>Metrika</i>. 1-24.'
