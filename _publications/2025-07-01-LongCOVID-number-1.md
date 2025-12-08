@@ -7,8 +7,8 @@ excerpt: 'This paper investigated the spatiotemporal patterns of long COVID inci
 date: 2025-07-01
 venue: 'XXX'
 #slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
-paperurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
-bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Shen2025predicting.bib'
+paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12407596/'
+#bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Shen2025predicting.bib'
 citation: 'Chen Z, Li B, <strong>Chen Y</strong>, Liu J, et al. (2025). &quot;Mapping long COVID: spatial and social inequities across the United States.&quot; <i>Revised</i>.'
 ---
 
@@ -21,6 +21,6 @@ Quarterly long COVID incidence ranged from 0.015% to 14.29%. Before the emergenc
     </tr>
   </table>
   <figcaption align="center">
-    <strong>Figure 1:</strong> The distribution of long COVID incidence in U.S. counties (2021–2024).
+    <strong>Figure 1:</strong> Long COVID incidence patterns. (a) Overall distribution of county-level incidences; (b) Temporal trend of average incidence from January 2021 to March 2024; (c) Spatial and temporal variations of incidence across U.S. counties from 2021 to 2024.
   </figcaption>
 </figure>
