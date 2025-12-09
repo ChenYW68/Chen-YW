@@ -11,20 +11,27 @@ redirect_from:
 
 Education
 ======
-* 2018–2023: Ph.D. in Statistics, Sun Yat-sen University, China. Advisor: <a href="https://www.researchgate.net/profile/Hui-Huang-92" target="_blank">Prof. Hui Huang</a>
+* 09-2018 to 08-2023: Ph.D. in Statistics, Sun Yat-sen University, China. Advisor: <a href="https://www.researchgate.net/profile/Hui-Huang-92" target="_blank">Prof. Hui Huang</a>
 
 Work experience
 ======
-* 2023-: Postdoctoral Associate
+* 12-2023 to present: Postdoctoral Associate
   * Epidemiology and Biostatistics, University of Georgia, USA. Advisor: <a href='https://www.researchgate.net/profile/Ye-Shen-2' target='_blank'> Prof. Ye Shen</a>
     
-* 2016-2018: Faculty
+* 07-2016 to 07-2018: Faculty
   * Guizhou Minzu University, China
+  * Achievement: In November 2017, a team under my guidance won the second prize in the National College Student Mathematical Modeling Competition
 
 * Winter 2015: Internship
   * SAS Institute Inc., Guangzhou, China
   * Developing prediction models of Biostime infant milk
-    
+
+Award
+======
+* The second prize (Outstanding paper): 6th National Forum for Statistics Ph.D. Candidate (11-2022)
+* The third Prize (National Statistics Modeling Competition): Big Data Modeling Group  (11-2015)
+* The first prize (Mathematical Modeling Competition): 4th Shenzhen Cup for Forecasting Potential Flood Losses in Shenzhen (08-2014)
+
 Skills
 ======
 * R
