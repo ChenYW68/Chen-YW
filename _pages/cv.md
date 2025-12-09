@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* 2018-2023, Ph.D in Statistics, Sun Yat-sen University, China
+* 2018–2023: Ph.D. in Statistics, Sun Yat-sen University, China. Advisor: <a href="https://www.researchgate.net/profile/Hui-Huang-92" target="_blank">Prof. Hui Huang</a>
 
 Work experience
 ======
 * 2023-: Postdoctoral Associate
-  * Epidemiology and Biostatistics, University of Georgia, USA
+  * Epidemiology and Biostatistics, University of Georgia, USA. Advisor: <a href='https://www.researchgate.net/profile/Ye-Shen-2' target='_blank'> Prof. Ye Shen</a>
     
 * 2016-2018: Faculty
   * Guizhou Minzu University, China
