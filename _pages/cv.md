@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **09/2018 – 08/2023:** Ph.D. in Statistics, Sun Yat-sen University, China. 
+* **09/2018 – 08/2023:** Ph.D. in Statistics, Sun Yat-sen University, China.  
   Advisor: <a href="https://www.researchgate.net/profile/Hui-Huang-92" target="_blank">Prof. Hui Huang</a>
   Dissertation: Several Problems in Modeling Complex SpatioTemporal Data
   
