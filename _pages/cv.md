@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* **09/2018 – 08/2023:** Ph.D. in Statistics, Sun Yat-sen University, China.  
-  Advisor: <a href="https://www.researchgate.net/profile/Hui-Huang-92" target="_blank">Prof. Hui Huang</a>
+* **09/2018 – 08/2023:** Ph.D.
+  * Statistics
+  * Sun Yat-sen University, China.  
+  * Advisor: <a href="https://www.researchgate.net/profile/Hui-Huang-92" target="_blank">Prof. Hui Huang</a>
+  * Dissertation: Several Problems in Modeling Complex SpatioTemporal Data
   
-
-
 Work experience
 ======
-* 12-2023 to present: Postdoctoral Associate
-  * Epidemiology and Biostatistics, University of Georgia, USA. Advisor: <a href='https://www.researchgate.net/profile/Ye-Shen-2' target='_blank'> Prof. Ye Shen</a>
+* **12/2023 – present:** Postdoctoral Associate
+  * Epidemiology and Biostatistics, University of Georgia, USA.
+  * Supervisor: <a href='https://www.researchgate.net/profile/Ye-Shen-2' target='_blank'> Prof. Ye Shen</a>
     
-* 07-2016 to 07-2018: Faculty
+* **07/2016 – 07/2018:** Faculty
   * Guizhou Minzu University, China
   * Achievement: In November 2017, a team under my guidance won the second prize in the National College Student Mathematical Modeling Competition
 
-* Winter 2015: Internship
+* **10/2015 – 01/2016:** Internship
   * SAS Institute Inc., Guangzhou, China
   * Developing prediction models of Biostime infant milk
 
