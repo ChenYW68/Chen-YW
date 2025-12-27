@@ -45,11 +45,11 @@ Skills
 
 Academic Interest
 ======
-* Predictive modeling, especially for data with spatiotemporal dependence
+* Multi-scale predictive modeling in public health and environmental sciences, particularly for data exhibiting spatiotemporal dependence, such as fine particulate matter concentrations derived from monitoring sites and numerical model outputs
 * Development of highly efficient algorithms, such as variational Bayes and ensemble methods
 * Semiparametric modeling, such as kernel regression
 * Change point detection
-* Interdisciplinary applications like infectious diseases such as schistosomiasis, vaccines such as influenza, and chronic diseases such as long COVID.
+* Interdisciplinary applications like infectious diseases such as schistosomiasis, influenza vaccines, and chronic diseases such as long COVID.
 
 Review activity 
 ======
