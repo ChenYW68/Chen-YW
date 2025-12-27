@@ -54,6 +54,7 @@ Academic Interest
 Review activity 
 ======
 * Applied Soft Computing
+* PLOS Neglected Tropical Diseases
 * Computational Statistics & Data Analysis
 * Aerosol and Air Quality Research
 * ...
