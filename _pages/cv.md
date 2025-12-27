@@ -51,7 +51,7 @@ Academic Interest
 * Change point detection
 * Interdisciplinary applications like infectious diseases such as schistosomiasis, influenza vaccines, and chronic diseases such as long COVID
 
-Review activity 
+Review Activity 
 ======
 * Applied Soft Computing
 * PLOS Neglected Tropical Diseases
@@ -59,7 +59,7 @@ Review activity
 * Aerosol and Air Quality Research
 * ...
 
-Publications
+Research Paper
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
