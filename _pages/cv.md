@@ -15,7 +15,7 @@ Education
   Advisor: <a href="https://www.researchgate.net/profile/Hui-Huang-92" target="_blank">Prof. Hui Huang</a><br>
   Dissertation: *Several Problems in Modeling Complex SpatioTemporal Data*
   
-Work experience
+Experience
 ======
 * **12/2023 – present:** Postdoctoral Associate
   * Epidemiology and Biostatistics, University of Georgia, USA
