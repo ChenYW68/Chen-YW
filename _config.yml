@@ -86,7 +86,7 @@ publication_category:
   conferences:
     title: 'Papers Under Review'
   manuscripts:
-    title: 'Journal Articles'  
+    title: 'Peer Reviewed'  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
