@@ -9,7 +9,7 @@ venue: 'The Lancet Regional Health - Americas'
 #slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2667193X26000311'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/ChenZ2026.bib'
-citation: 'Chen Z, Li B, <strong>Chen Y</strong>, Liu J, et al. (2026). &quot; Mapping spatial and social inequities of long COVID across theUnited States: A retrospective cohort study.&quot; <i>The Lancet Regional Health - Americas</i>. 101401.'
+citation: 'Chen Z, Li B, <strong>Chen Y</strong>, Liu J, et al. (2026). &quot; Mapping spatial and social inequities of long COVID across theUnited States: A retrospective cohort study.&quot; <i>The Lancet Regional Health - Americas</i>. 56: 101401.'
 ---
 
 Among 4,070,879 COVID-19 cases analyzed, quarterly long COVID incidence ranged from 0.015% to 14.29%. Before the emergence of the Omicron variant, incidence was 204 cases per 10,000 COVID-19 cases, compared with 248 cases per 10,000 COVID-19 cases after Omicron emergence (p < 0.001). Based on the Local Moran’s I statistic, 48.8% (328 of 673) of counties showed significant spatial correlation (p < 0.05) after Omicron’s emergence, up from 43.5% (293 of 673) prior. High-risk areas became more concentrated in inland regions, while low-risk areas clustered along the East Coast. Long COVID incidence was significantly associated with economic vulnerability, limited healthcare access, and mobility constraints, with these sociodemographic disparities consistently driving its spatial disparities over time. Subregional analyses revealed distinct regional differences in social drivers.
