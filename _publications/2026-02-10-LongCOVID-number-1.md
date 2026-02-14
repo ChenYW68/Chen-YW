@@ -8,7 +8,7 @@ date: 2026-02-10
 venue: 'The Lancet Regional Health - Americas'
 #slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2667193X26000311'
-#bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/ChenZ2026.bib'
+bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/ChenZ2026.bib'
 citation: 'Chen Z, Li B, <strong>Chen Y</strong>, Liu J, ..., Shen Y*, et al. (2026). &quot; Mapping spatial and social inequities of long COVID across theUnited States: A retrospective cohort study.&quot; <i>The Lancet Regional Health - Americas</i>. 101401.'
 ---
 
