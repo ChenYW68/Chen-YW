@@ -2,13 +2,13 @@
 title: "Mapping spatial and social inequities of long COVID across theUnited States: A retrospective cohort study"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-07-01-LongCOVID-number-1
+permalink: /publication/2026-02-10-LongCOVID-number-1
 excerpt: 'This paper investigated the spatiotemporal patterns of long COVID incidence.'
-date: 2025-07-01
-venue: 'XXX'
+date: 2026-02-10
+venue: 'The Lancet Regional Health - Americas'
 #slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Predicting influenza vaccine-elicited antibody responses with practical point system.pdf'
-paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12407596/'
-#bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Shen2025predicting.bib'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2667193X26000311'
+#bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/ChenZ2026.bib'
 citation: 'Chen Z, Li B, <strong>Chen Y</strong>, Liu J, ..., Shen Y*, et al. (2026). &quot; Mapping spatial and social inequities of long COVID across theUnited States: A retrospective cohort study.&quot; <i>The Lancet Regional Health - Americas</i>. 101401.'
 ---
 
