@@ -57,6 +57,7 @@ Review Activity
 * PLOS Neglected Tropical Diseases
 * Computational Statistics & Data Analysis
 * Aerosol and Air Quality Research
+* Biostatistics & Epidemiology
 * ...
 
 Research Paper
