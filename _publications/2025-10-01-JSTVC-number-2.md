@@ -21,7 +21,8 @@ Accurate estimation of treatment effects and reliable ranking of treatment regim
     </tr>
   </table>
   <figcaption align="center">
-    <strong>Figure 1:</strong> Left panel: Average Treatment Effect (ATE) calculated as the sum of Direct Effects (DEs) and Indirect Effects (IEs) from the proposed JSTVC. Right panel: Average relative reduction of observed outcomes from Year 1 to Year 5.
+    <strong>Figure 1:</strong> Ranking treatment sequences across methods: (A) The proposed JSTVC; (B) JSTVC without the spatiotemporal random effect; (C) JSTVC which mixed DEs and IEs and did not decompose the ATE; and (D) Ranking based on the average
+reduction in outcomes from Year 1 to Year 5. 
   </figcaption>
 </figure>
 
