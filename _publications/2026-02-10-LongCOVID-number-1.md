@@ -1,5 +1,5 @@
 ---
-title: "Mapping spatial and social inequities of long COVID across theUnited States: A retrospective cohort study"
+title: "Mapping spatial and social inequities of long COVID across the United States: A retrospective cohort study"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-02-10-LongCOVID-number-1
