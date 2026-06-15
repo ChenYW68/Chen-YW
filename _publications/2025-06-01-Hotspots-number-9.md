@@ -7,6 +7,7 @@ excerpt: 'This paper developed prediction methods for the first (baseline) year 
 date: 2025-06-01
 venue: 'PLOS Neglected Tropical Diseases'
 slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Hotspots-Supporting Information.pdf'
+slideslabel: 'Download Supplementary'
 paperurl: 'https://chenyw68.github.io/Chen-YW/files/Identifying key aspects to enhance predictive modeling for early identification of schistosomiasis hotspots to guide mass drug administration.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Chen2025identifying.bib'
 citation: '<strong>Chen Y</strong>, Luo F, Martinez L, Jiang S, and Shen Y. (2025). &quot;Identifying key aspects to enhance predictive modeling for early identification of schistosomiasis hotspots to guide mass drug administration.&quot; <i>PLOS Neglected Tropical Diseases</i>. 19(7): e0013315.'
