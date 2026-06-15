@@ -23,7 +23,7 @@ Experience
     
 * **07/2016 – 07/2018:** Faculty
   * Guizhou Minzu University, China
-  * Achievement: In November 2017, a team under my guidance won the second prize in the National College Student Mathematical Modeling Competition
+  <!-- * Achievement: In November 2017, a team under my guidance won the second prize in the National College Student Mathematical Modeling Competition -->
 
 * **10/2015 – 01/2016:** Internship
   * SAS Institute Inc., Guangzhou, China
