@@ -34,6 +34,6 @@ reduction in outcomes from Year 1 to Year 5.
     </tr>
   </table>
   <figcaption align="center">
-    <strong>Figure 2:</strong> Spatiotemporal patterns of the different components.
+    <strong>Figure 2:</strong> Spatiotemporal patterns of the different components. Top panel: Observed prevalence. Middle panel: Treatment effects. Bottom panel: Recovered spatiotemporal random effects.
   </figcaption>
 </figure>
