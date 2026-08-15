@@ -34,6 +34,6 @@ reduction in outcomes from Year 1 to Year 5.
     </tr>
   </table>
   <figcaption align="center">
-    <strong>Figure 2:</strong> Spatiotemporal patterns of schistosomiasis prevalence based on the recovered random effects.
+    <strong>Figure 2:</strong> Spatiotemporal patterns of the different components.
   </figcaption>
 </figure>
