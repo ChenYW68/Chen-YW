@@ -9,7 +9,7 @@ venue: 'XXX'
 slidesurl: 
 paperurl: 
 bibtexurl: 
-citation: '<strong>Chen Y</strong>, Wen X, Luo F, Yang Y, and Shen Y. (2025). &quot;Estimating direct and indirect treatment effects and ranking treatment regimens in spacetime-dependent cluster randomized trials: a Schistosomiasis case study.&quot; <i>Revised</i>.'
+citation: '<strong>Chen Y</strong>, Wen X, Luo F, Yang Y, and Shen Y. (2025). &quot;Estimating direct and indirect treatment effects and ranking treatment regimens in spacetime-dependent cluster randomized trials: a Schistosomiasis case study.&quot; <i>Third-round revision</i>.'
 ---
 
 To identify the most effective treatment sequences for schistosomiasis, cluster randomized trials were conducted over five years across multiple countries. 
