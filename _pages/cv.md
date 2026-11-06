@@ -78,7 +78,7 @@ Research Paper
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: 0.5em !important;
+  margin-bottom: -3em !important;
   padding-bottom: 0 !important;
 }
 
