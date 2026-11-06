@@ -64,9 +64,31 @@ Review Activity
 
 Research Paper
 ======
+  {% assign total = site.publications | size %}
+  {% assign counter = total %}
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    <div class="publication-item">
+      <span class="publication-number">({{ counter }})</span>
+      {% include archive-single-cv.html %}
+    </div>
+    {% assign counter = counter | minus: 1 %}
   {% endfor %}</ul>
+
+<style>
+.publication-item {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1.5em !important;
+  padding-bottom: 0 !important;
+}
+
+.publication-number {
+  font-weight: bold;
+  margin-right: 5px;
+  flex-shrink: 0;
+  min-width: 25px;
+}
+</style>
   
 <!--Talks
 ======
