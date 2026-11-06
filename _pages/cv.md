@@ -88,6 +88,10 @@ Research Paper
   flex-shrink: 0;
   min-width: 25px;
 }
+
+.publication-item li {
+  list-style: none;
+}
 </style>
   
 <!--Talks
