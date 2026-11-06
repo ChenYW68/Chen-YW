@@ -1,5 +1,5 @@
 ---
-title: "Estimating direct and indirect treatment effects and ranking treatment regimens in spacetime-dependent cluster randomized trials: a Schistosomiasis case study"
+title: "Identifying Optimal Schistosomiasis Treatment Sequences for Mass Drug Administration Using Direct and Indirect Effects in Spatiotemporal Trials"
 collection: publications
 category: conferences
 permalink: /publication/2025-10-01-JSTVC-number-11
@@ -9,7 +9,7 @@ venue: 'XXX'
 slidesurl: 
 paperurl: 
 bibtexurl: 
-citation: '<strong>Chen Y</strong>, Wen X, Luo F, Yang Y, and Shen Y. (2025). &quot;Estimating direct and indirect treatment effects and ranking treatment regimens in spacetime-dependent cluster randomized trials: a Schistosomiasis case study.&quot; <i>Third-round revision</i>.'
+citation: '<strong>Chen Y</strong>, Wen X, Luo F, Yang Y, and Shen Y. (2025). &quot;Identifying Optimal Schistosomiasis Treatment Sequences for Mass Drug Administration Using Direct and Indirect Effects in Spatiotemporal Trials.&quot; <i>Third-round revision</i>.'
 ---
 
 To identify the most effective treatment sequences for schistosomiasis, cluster randomized trials were conducted over five years across multiple countries. 
