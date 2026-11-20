@@ -1,5 +1,5 @@
 ---
-title: "Identifying Optimal Schistosomiasis Treatment Sequences for Mass Drug Administration Using Direct and Indirect Effects in Spatiotemporal Trials"
+title: "Identifying optimal schistosomiasis treatment sequences for mass drug administration using direct and indirect effects in spatiotemporal trials"
 collection: publications
 category: conferences
 permalink: /publication/2025-10-01-JSTVC-number-11
