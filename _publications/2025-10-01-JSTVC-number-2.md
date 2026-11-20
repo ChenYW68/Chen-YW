@@ -3,7 +3,7 @@ title: "Identifying Optimal Schistosomiasis Treatment Sequences for Mass Drug Ad
 collection: publications
 category: conferences
 permalink: /publication/2025-10-01-JSTVC-number-11
-excerpt: 'This paper investigated direct and indirect treatment effects and ranked treatment regimens in spacetime-dependent cluster randomized trials'
+excerpt: 'This paper addresses three key scientific questions concerning Mass Drug Administration (MDA) in spatiotemporal cluster-randomized trials: (a) Do the MDA treatment sequences evaluated in the SCORE CRT differ significantly in their treatment effects? (b) To what extent do the benefits of previous MDA treatments persist into untreated years and influence the effectiveness of subsequent treatment sequences? and (c) How does spatiotemporal heterogeneity in schistosomiasis transmission influence the effectiveness and ranking of MDA treatment sequences?'
 date: 2025-10-01
 venue: 'XXX'
 slidesurl: 
@@ -12,8 +12,12 @@ bibtexurl:
 citation: '<strong>Chen Y</strong>, Wen X, Luo F, Yang Y, and Shen Y. (2025). &quot;Identifying Optimal Schistosomiasis Treatment Sequences for Mass Drug Administration Using Direct and Indirect Effects in Spatiotemporal Trials.&quot; <i>Third-round revision</i>.'
 ---
 
-To identify the most effective treatment sequences for schistosomiasis, cluster randomized trials were conducted over five years across multiple countries. 
-Accurate and reliable sequence ranking is essential for informing mass drug administration strategies. However, these efforts are often hindered by bias and large variance in treatment effect estimation. Bias may arise from inadequate accounting for Indirect Effects (IEs) and time-varying Direct Effects (DEs), while large variance may result from insufficient consideration of intrinsic dependence structures. To address these challenges, we decompose the effects into DEs from the most recent intervention and IEs driven primarily by historical treatment trajectories. To estimate DEs and IEs, we develop a joint varying coefficient model that accounts for spatiotemporal dependence induced by the transmission dynamics of schistosomiasis. To facilitate both statistical inference and rigorous comparisons across sequences under complex spatiotemporal dependence, we develop a scalable variational Bayes algorithm with an ensemble-based correction to improve uncertainty quantification. Simulations and real-data analyses show that explicitly quantifying DEs, IEs, and spacetime-dependent effects improves the accuracy of treatment effect estimation and the reliability of treatment sequence ranking. Most importantly, switching from Community-Wide Treatment (CWT) to school-based treatment in years 3-4 showed no clear evidence of a difference in average treatment effect compared with maintaining CWT throughout, with an estimated difference of -0.027 (95% credible interval: [-0.117, 0.065]). This finding suggests that reducing reliance on resource-intensive CWT may preserve comparable population-level benefits.
+To identify optimal schistosomiasis treatment sequences for informing mass drug administration strategies, cluster randomized trials were conducted over five years across multiple countries. However, accurate and reliable sequence ranking is often hindered by bias and large variance in treatment effect estimation. Bias may arise from inadequate accounting for Indirect Effects (IEs) and Direct Effects (DEs), while large variance may result from insufficient consideration of intrinsic dependence structures.
+To address these challenges, we decompose effects into DEs from the most recent treatment and IEs driven primarily from prior treatment trajectories.
+To model DEs and IEs, we propose a joint varying coefficient model that accounts for spatiotemporal dependence induced by the transmission dynamics of schistosomiasis. 
+To facilitate scalable inference and improve uncertainty quantification, we develop an ensemble-corrected variational Bayes algorithm for model implementation.
+Simulations and real-data analyses show that explicitly quantifying DEs, IEs, and spacetime-dependent effects improves treatment effect estimation and sequence ranking.
+Interestingly, switching from Community-Wide Treatment (CWT) to school-based treatment in Years 3--4 showed no significant difference in cumulative treatment effects compared with maintaining CWT throughout (-0.03; 95% credible interval: [-0.16, 0.11]). Reducing reliance on CWT may be promising, but further research is needed to establish comparable population-level benefits.
 
 <figure id="Figure1">
   <table align="center">
