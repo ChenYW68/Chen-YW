@@ -13,8 +13,8 @@ author_profile: true
       <img src="{{ base_path }}/images/Papers/JSTVC-Fig4_Ranks.jpg" alt="Ranks of schistosomiasis treatment effects">
     </div>
     <div class="research-project__content">
-      <h3>Statistic inference for complex dependent data</h3>
-      <p>I develop causal inference methods for spacetime dependent data, where treatment effects may propagate over time and across geographic regions. An example is schistosomiasis research, where direct and indirect effects of mass drug administration inform treatment sequences and elimination strategies.</p>
+      <h3>Bayesian inference for complex dependent data</h3>
+      <p>I develop Bayesian causal inference methods for spacetime dependent data, where treatment effects may propagate over time and across geographic regions. An example is schistosomiasis research, where direct and indirect effects of mass drug administration inform treatment sequences and elimination strategies.</p>
       <p><strong>Example:</strong> Identifying optimal schistosomiasis treatment sequences for mass drug administration using direct and indirect effects in spatiotemporal trials.</p>
       <p><strong>Collaborators:</strong> Public health and epidemiology researchers working on schistosomiasis control.</p>
       <p><a href="{{ base_path }}/publication/2025-10-01-JSTVC-number-2" rel="permalink">Continue reading</a></p>
