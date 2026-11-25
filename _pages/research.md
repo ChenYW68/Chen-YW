@@ -16,7 +16,7 @@ author_profile: true
       <h3>Bayesian inference for complex dependent data</h3>
       <p>I develop Bayesian causal inference methods for spacetime dependent data, where treatment effects may propagate over time and across geographic regions. An example is schistosomiasis research, where direct and indirect effects of mass drug administration inform treatment sequences and elimination strategies.</p>
       <p><strong>Example:</strong> Identifying optimal schistosomiasis treatment sequences for mass drug administration using direct and indirect effects in spatiotemporal trials.</p>
-      <p><strong>Collaborators:</strong> Public health and epidemiology researchers working on schistosomiasis control.</p>
+      <p><strong>Collaborators:</strong> Biostatistics, public health, and epidemiology researchers working on schistosomiasis control.</p>
       <p><a href="{{ base_path }}/publication/2025-10-01-JSTVC-number-2" rel="permalink">Continue reading</a></p>
     </div>
   </article>
@@ -30,7 +30,7 @@ author_profile: true
       <h3>Predictions</h3>
       <p>I develop predictive models that integrate sparse longitudinal trajectories, ensemble forecasting using Gaussian Markov Random Fields (GMRFs), and interpretable ensemble modeling of complex interactions between demographic factors and historical vaccine antibody titers. These methods enable individualized prediction of influenza vaccine responses and translate complex longitudinal data into clinically actionable insights.</p>
       <p><strong>Example:</strong> Joint modeling and dynamic ensemble forecasting of influenza vaccine responses from complex longitudinal trajectories.</p>
-      <p><strong>Collaborators:</strong> Epidemiology and biostatistics researchers studying influenza vaccines.</p>
+      <p><strong>Collaborators:</strong> Biostatistics and epidemiology researchers studying influenza vaccines.</p>
       <p><a href="{{ base_path }}/publication/2025-11-01-JMDF-number-3" rel="permalink">Continue reading</a></p>
     </div>
   </article>
@@ -55,12 +55,15 @@ author_profile: true
 }
 
 .research-project {
-  display: block;
+  display: grid;
+  grid-template-columns: minmax(180px, 28%) 1fr;
+  gap: 2em;
+  align-items: start;
   margin: 0 0 2.5em;
 }
 
 .research-project__image {
-  margin-bottom: 1em;
+  margin-bottom: 0;
 }
 
 .research-project__image img {
@@ -85,6 +88,11 @@ author_profile: true
 }
 
 @media screen and (max-width: 600px) {
+  .research-project {
+    grid-template-columns: 1fr;
+    gap: 1em;
+  }
+
   .research-project__image--multiple {
     grid-template-columns: 1fr;
   }
