@@ -56,11 +56,12 @@ Award
 
 Academic Interest
 ======
-* Multi-scale predictive modeling in public health and environmental sciences, particularly for data exhibiting spatiotemporal dependence, such as fine particulate matter concentrations derived from monitoring sites and numerical model outputs
-* Development of highly efficient algorithms, such as variational Bayes and ensemble methods
-* Semiparametric modeling, such as kernel regression
-* Change point detection
-* Interdisciplinary applications like infectious diseases such as schistosomiasis, influenza vaccines, and chronic diseases such as long COVID
+* Bayesian predictive modeling, particularly for influenza vaccine antibody responses and air pollution concentration prediction and calibration
+* Development of computationally efficient algorithms, including variational Bayes and ensemble learning methods
+* Semiparametric and nonparametric statistical modeling, including kernel regression and double/debiased machine learning
+* Change-point detection and spatiotemporal modeling, with applications to DNA copy number variation and spatial transcriptomics data
+* Disease risk assessment associated with preexisting health conditions and socioenvironmental factors, with a particular focus on Long COVID
+* Interdisciplinary applications in infectious and chronic diseases, including schistosomiasis, influenza, and dementia
 
 Review Activity 
 ======
