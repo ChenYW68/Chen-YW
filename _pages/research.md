@@ -40,7 +40,7 @@ author_profile: true
       <img src="{{ base_path }}/images/Papers/GeoMap_lc.png" alt="Geographic variation in Long COVID risk assessment">
     </div>
     <div class="research-project__content">
-      <h3>Risk assessments</h3>
+      <h3>Risk assessments and multidimensional heterogeneities</h3>
       <p>Focusing on developing advanced statistical and machine learning methods for risk assessment and disease burden quantification, with an emphasis on defining and optimizing exposure windows, estimating attributable risks, and characterizing complex interactions and population heterogeneity. The overarching goal is to improve the identification of high-risk populations, quantify the contributions of multiple risk factors, and characterize geographic and social disparities to inform targeted prevention strategies.</p>
       <p><strong>Example:</strong> Comorbidity exposure windows and multidimensional disparities in long COVID risk in a US national cohort.</p>
       <p><strong>Collaborators:</strong> Statistics, public health, epidemiology, and clinical research collaborators using large electronic health record cohorts.</p>
