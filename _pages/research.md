@@ -58,7 +58,7 @@ author_profile: true
       <h3>Single-cell and spatial transcriptomics data analysis</h3>
       <p>Focusing on developing scalable spatially varying coefficient methods and multi-stage estimation algorithms for single-cell and spatial transcriptomics data, with an emphasis on characterizing localized associations between macrophage abundance and ERBB2 expression, accounting for spatial confounding, and quantifying heterogeneity across biologically distinct tissue compartments. The overarching goal is to identify reproducible tumor microenvironment patterns, improve inference on spatially heterogeneous associations, and generate high-resolution spatial surfaces that reveal where local biological features are associated with tumor-related gene expression.</p>
       <p><strong>Example:</strong> Characterizing spatially varying associations between macrophage abundance and ERBB2 expression, identifying localized tumor microenvironment patterns, and quantifying cellular heterogeneity across distinct tissue compartments, etc.</p>
-      <p><strong>Collaborators:</strong> Biostatistics, computational biology, bioinformatics, cancer biology, pathology, and oncology using Xenium or CosMx datasets</p>
+      <p><strong>Collaborators:</strong> Biostatistics, computational biology, bioinformatics, cancer biology, pathology, and oncology using Xenium or CosMx datasets.</p>
       <p><a href="#" rel="permalink">Continue reading</a></p>
     </div>
   </article>
