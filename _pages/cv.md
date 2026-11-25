@@ -98,7 +98,7 @@ Research Paper
 <style>
 .cv-subsection-title {
   margin-top: 3em !important;
-  margin-bottom: -2em !important;
+  margin-bottom: -1em !important;
 }
 
 .cv-publications {
@@ -109,7 +109,7 @@ Research Paper
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: -3em !important;
+  margin-bottom: 1em !important;
   padding-bottom: 0 !important;
 }
 
