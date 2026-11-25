@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 cv_section: collaboration
 cv_status: published
+cv_selected: true
 permalink: /publication/2025-06-01-Hotspots-number-9
 excerpt: 'This paper developed prediction methods for the first (baseline) year to identify hotspots of Schistosomiasis. '
 date: 2025-06-01

@@ -37,14 +37,6 @@ Award
 * The first prize (Mathematical Modeling Competition): 4th Shenzhen Cup for Forecasting Potential Flood Losses in Shenzhen (08-2014)
 -->
 
-Skills
-======
-* R
-* C++
-* SQL
-* Matlab
-* SAS
-
 Academic Interest
 ======
 * Multi-scale predictive modeling in public health and environmental sciences, particularly for data exhibiting spatiotemporal dependence, such as fine particulate matter concentrations derived from monitoring sites and numerical model outputs
@@ -62,10 +54,26 @@ Review Activity
 * Biostatistics & Epidemiology
 * ...
 
+Skills
+======
+R, C++, SQL, Matlab, SAS
+
 Research Paper
 ======
+### Selected publications
+  {% assign selected_papers = site.publications | where: "cv_selected", true %}
+  {% assign counter = selected_papers | size %}
+  {% assign status_order = "peer_review,third_round_revision,second_round_revision,first_round_revision,accepted,published" | split: "," %}
+  <ul>{% for status in status_order %}{% assign status_papers = selected_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
+    <div class="publication-item">
+      <span class="publication-number">({{ counter }})</span>
+      {% include archive-single-cv.html %}
+    </div>
+    {% assign counter = counter | minus: 1 %}
+  {% endfor %}{% endfor %}</ul>
+
 ### Statistics & Methodology
-  {% assign methodology_papers = site.publications | where: "cv_section", "methodology" %}
+  {% assign methodology_papers = site.publications | where: "cv_section", "methodology" | where_exp: "post", "post.cv_selected != true" %}
   {% assign counter = methodology_papers | size %}
   {% assign status_order = "peer_review,third_round_revision,second_round_revision,first_round_revision,accepted,published" | split: "," %}
   <ul>{% for status in status_order %}{% assign status_papers = methodology_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
@@ -77,7 +85,7 @@ Research Paper
   {% endfor %}{% endfor %}</ul>
 
 ### Public health & Epidemiology
-  {% assign collaboration_papers = site.publications | where: "cv_section", "collaboration" %}
+  {% assign collaboration_papers = site.publications | where: "cv_section", "collaboration" | where_exp: "post", "post.cv_selected != true" %}
   {% assign counter = collaboration_papers | size %}
   <ul>{% for status in status_order %}{% assign status_papers = collaboration_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
     <div class="publication-item">

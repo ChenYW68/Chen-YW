@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 cv_section: methodology
 cv_status: published
+cv_selected: true
 permalink: /publication/2023-06-01-paper-title-number-2
 excerpt: 'This paper developed additive dynamic models with high efficient algorithms for statistical bias-correction.'
 date: 2023-06-01

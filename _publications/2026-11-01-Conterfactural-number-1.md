@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 cv_section: collaboration
 cv_status: published
+cv_selected: true
 permalink: /publication/2025-08-01-Conterfactural-number-1
 excerpt: 'This paper investigated epidemiology of influenza using change-point detection and interrupted time-series models.'
 date: 2026-11-01

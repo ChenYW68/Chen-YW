@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 cv_section: methodology
 cv_status: third_round_revision
+cv_selected: true
 permalink: /publication/2025-10-01-JSTVC-number-11
 excerpt: 'This paper addresses three key scientific questions concerning Mass Drug Administration (MDA) in spatiotemporal cluster-randomized trials: (a) Do the MDA treatment sequences evaluated in the SCORE CRT differ significantly in their treatment effects? (b) To what extent do the benefits of previous MDA treatments persist into untreated years and influence the effectiveness of subsequent treatment sequences? and (c) How does spatiotemporal heterogeneity in schistosomiasis transmission influence the effectiveness and ranking of MDA treatment sequences?'
 date: 2025-10-01

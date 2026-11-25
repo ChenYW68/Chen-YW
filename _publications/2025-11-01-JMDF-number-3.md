@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 cv_section: methodology
 cv_status: first_round_revision
+cv_selected: true
 permalink: /publication/2025-11-01-JMDF-number-12
 excerpt: 'This paper developed a novel joint modeling and dynamic ensemble forecasting method.'
 date: 2025-11-01
