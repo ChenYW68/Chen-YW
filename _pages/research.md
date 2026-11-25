@@ -14,8 +14,8 @@ author_profile: true
     </div>
     <div class="research-project__content">
       <h3>Bayesian inference for complex dependent data</h3>
-      <p>I develop Bayesian causal inference methods for spacetime dependent data, where treatment effects may propagate over time and across geographic regions. An example is schistosomiasis research, where direct and indirect effects of mass drug administration inform treatment sequences and elimination strategies.</p>
-      <p><strong>Example:</strong> Identifying optimal schistosomiasis treatment sequences for mass drug administration using direct and indirect effects in spatiotemporal trials.</p>
+      <p>Focusing on developing Bayesian statistical methods for inference and causal effect estimation in complex dependent data, particularly those exhibiting spatial, temporal, and spatiotemporal dependence. The overarching goal is to characterize dependence structures, quantify uncertainty, and estimate direct and indirect effects while accounting for heterogeneity and potential interference across observational units.</p>
+      <p><strong>Example:</strong> Identifying effective schistosomiasis treatment sequences for mass drug administration in spatiotemporal trials, early detection of disease hotspots, and characterization of their spatiotemporal evolution.</p>
       <p><strong>Collaborators:</strong> Biostatistics, public health, and epidemiology researchers working on schistosomiasis control.</p>
       <p><a href="{{ base_path }}/publication/2025-10-01-JSTVC-number-2" rel="permalink">Continue reading</a></p>
     </div>
@@ -27,9 +27,9 @@ author_profile: true
       <img src="{{ base_path }}/images/Research/uga_ens_sd.png" alt="Monte Carlo based ensemble standard deviation for influenza vaccine response prediction">
     </div>
     <div class="research-project__content">
-      <h3>Predictions</h3>
-      <p>I develop predictive models that integrate sparse longitudinal trajectories, ensemble forecasting using Gaussian Markov Random Fields (GMRFs), and interpretable ensemble modeling of complex interactions between demographic factors and historical vaccine antibody titers. These methods enable individualized prediction of influenza vaccine responses and translate complex longitudinal data into clinically actionable insights.</p>
-      <p><strong>Example:</strong> Joint modeling and dynamic ensemble forecasting of influenza vaccine responses from complex longitudinal trajectories.</p>
+      <h3>Development of predictive models for longitudinal, spatial, and spatiotemporal data</h3>
+      <p> Focusing on developing advanced statistical and machine learning methods for modeling complex longitudinal, spatial, and spatiotemporal data, with an emphasis on capturing complex dependence structures, nonlinear interactions, and individual heterogeneity. The overarching goal is to improve predictive accuracy, robustness, and uncertainty quantification, with applications in public health, environmental sciences, and precision medicine. </p>
+      <p><strong>Example:</strong> Air pollution concentration calibration and prediction, and individualized prediction of influenza vaccine responses.</p>
       <p><strong>Collaborators:</strong> Biostatistics and epidemiology researchers studying influenza vaccines.</p>
       <p><a href="{{ base_path }}/publication/2025-11-01-JMDF-number-3" rel="permalink">Continue reading</a></p>
     </div>
@@ -41,7 +41,7 @@ author_profile: true
     </div>
     <div class="research-project__content">
       <h3>Risk assessments</h3>
-      <p>I provide novel insights into defining and optimizing exposure windows for risk assessment, leveraging advanced ensemble cross-fitted double/debiased machine learning approaches to improve the quantification of disease burden, identify high-risk populations, and characterize geographic and social disparities. Long COVID research provides an example of how comorbidities and social determinants can be integrated to estimate attributable burden and guide prevention priorities.</p>
+      <p>Focusing on developing advanced statistical and machine learning methods for risk assessment and disease burden quantification, with an emphasis on defining and optimizing exposure windows, estimating attributable risks, and characterizing complex interactions and population heterogeneity. The overarching goal is to improve the identification of high-risk populations, quantify the contributions of multiple risk factors, and characterize geographic and social disparities to inform targeted prevention strategies.</p>
       <p><strong>Example:</strong> Comorbidity exposure windows and multidimensional disparities in long COVID risk in a US national cohort.</p>
       <p><strong>Collaborators:</strong> Statistics, public health, epidemiology, and clinical research collaborators using large electronic health record cohorts.</p>
       <p><a href="{{ base_path }}/publication/2027-01-01-LongCOVID-comorbidity" rel="permalink">Continue reading</a></p>
