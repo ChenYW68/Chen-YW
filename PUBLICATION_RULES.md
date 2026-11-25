@@ -84,7 +84,7 @@ The CV panel currently uses these spacing rules:
 ```css
 .cv-subsection-title {
   margin-top: 3em !important;
-  margin-bottom: -1em !important;
+  margin-bottom: 0em !important;
 }
 
 .publication-item {

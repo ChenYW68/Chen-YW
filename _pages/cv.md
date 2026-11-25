@@ -100,7 +100,7 @@ Research Paper
 <style>
 .cv-subsection-title {
   margin-top: 3em !important;
-  margin-bottom: -1em !important;
+  margin-bottom: 0em !important;
 }
 
 .cv-subsection-title--first {
