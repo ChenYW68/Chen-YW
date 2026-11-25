@@ -44,7 +44,7 @@ author_profile: true
       <p>Focusing on developing advanced ensemble double/debiased machine learning methods for risk assessment and disease burden quantification, with an emphasis on defining and optimizing exposure windows, estimating attributable risks, and characterizing complex interactions and population heterogeneity. The overarching goal is to improve the identification of high-risk populations, quantify the contributions of multiple risk factors, and characterize geographic and social disparities to inform targeted prevention strategies.</p>
       <p><strong>Example:</strong> Comorbidity exposure windows and multidimensional disparities in long COVID risk in a US national cohort.</p>
       <p><strong>Collaborators:</strong> Statistics, public health, epidemiology, and clinical research collaborators using large electronic health record cohorts.</p>
-      <p><a href="{{ base_path }}/publication/2027-01-01-LongCOVID-comorbidity" rel="permalink">Continue reading</a></p>
+      <p><a href="{{ base_path }}/publication/" rel="permalink">Continue reading</a></p>
     </div>
   </article>
 
