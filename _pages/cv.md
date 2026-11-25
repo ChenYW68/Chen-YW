@@ -64,7 +64,7 @@ Review Activity
 
 Research Paper
 ======
-### Methodology & Statistics
+### Statistics & Methodology
   {% assign methodology_papers = site.publications | where: "cv_section", "methodology" %}
   {% assign counter = methodology_papers | size %}
   <ul>{% for post in methodology_papers reversed %}
