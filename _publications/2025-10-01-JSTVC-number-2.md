@@ -12,7 +12,7 @@ venue: 'XXX'
 slidesurl: 
 paperurl: 
 bibtexurl: 
-citation: '<strong>Chen Y</strong>, Wen X, Luo F, Yang Y, and Shen Y. (2025). &quot;Identifying Optimal Schistosomiasis Treatment Sequences for Mass Drug Administration Using Direct and Indirect Effects in Spatiotemporal Trials.&quot; <i>Third-round revision</i>.'
+citation: '<strong>Chen Y</strong>, Wen X, Luo F, Yang Y, and Shen Y. (2025). &quot;Identifying optimal schistosomiasis treatment sequences for mass drug administration using direct and indirect effects in spatiotemporal trials.&quot; <i>Third-round revision</i>.'
 ---
 
 To identify optimal schistosomiasis treatment sequences for informing mass drug administration strategies, cluster randomized trials were conducted over five years across multiple countries. However, accurate and reliable sequence ranking is often hindered by bias and large variance in treatment effect estimation. Bias may arise from inadequate accounting for Indirect Effects (IEs) and Direct Effects (DEs), while large variance may result from insufficient consideration of intrinsic dependence structures.
