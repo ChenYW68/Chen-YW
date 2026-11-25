@@ -97,6 +97,7 @@ Research Paper
 
 <style>
 .cv-subsection-title {
+  margin-top: 1em !important;
   margin-bottom: 0.1em !important;
 }
 
