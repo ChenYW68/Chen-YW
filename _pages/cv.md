@@ -67,24 +67,25 @@ Research Paper
 ### Statistics & Methodology
   {% assign methodology_papers = site.publications | where: "cv_section", "methodology" %}
   {% assign counter = methodology_papers | size %}
-  <ul>{% for post in methodology_papers reversed %}
+  {% assign status_order = "peer_review,third_round_revision,second_round_revision,first_round_revision,accepted,published" | split: "," %}
+  <ul>{% for status in status_order %}{% assign status_papers = methodology_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
       {% include archive-single-cv.html %}
     </div>
     {% assign counter = counter | minus: 1 %}
-  {% endfor %}</ul>
+  {% endfor %}{% endfor %}</ul>
 
 ### Public health & Epidemiology
   {% assign collaboration_papers = site.publications | where: "cv_section", "collaboration" %}
   {% assign counter = collaboration_papers | size %}
-  <ul>{% for post in collaboration_papers reversed %}
+  <ul>{% for status in status_order %}{% assign status_papers = collaboration_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
       {% include archive-single-cv.html %}
     </div>
     {% assign counter = counter | minus: 1 %}
-  {% endfor %}</ul>
+  {% endfor %}{% endfor %}</ul>
 
 <style>
 .publication-item {

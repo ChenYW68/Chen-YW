@@ -3,6 +3,7 @@ title: "Composite quantile regression for a distributed system with non-randomly
 collection: publications
 category: manuscripts
 cv_section: methodology
+cv_status: published
 permalink: /publication/2025-01-01-Quantile-number-7
 excerpt: 'This paper proposed a novel estimation method for composite quantile regression.'
 date: 2025-01-01

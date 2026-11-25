@@ -3,6 +3,7 @@ title: "A likelihood ratio model for change point detection of generalized Paret
 collection: publications
 category: manuscripts
 cv_section: methodology
+cv_status: published
 permalink: /publication/2021-07-01-Change-Point-Detection-number-1
 excerpt: 'This paper develops the theoretical framework for change-point detection in extreme events.'
 date: 2021-07-01

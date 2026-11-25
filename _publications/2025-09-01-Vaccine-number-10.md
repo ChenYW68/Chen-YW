@@ -3,6 +3,7 @@ title: "Predicting influenza vaccine-elicited antibody responses with practical 
 collection: publications
 category: manuscripts
 cv_section: collaboration
+cv_status: published
 permalink: /publication/2025-09-01-Vaccine-number-10
 excerpt: 'This paper developed point system for influenza vaccination.'
 date: 2025-09-01

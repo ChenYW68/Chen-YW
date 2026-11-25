@@ -3,6 +3,7 @@ title: "Generalized Pareto distribution change-point detection model and its app
 collection: publications
 category: manuscripts
 cv_section: methodology
+cv_status: published
 permalink: /publication/2021-09-01-Change-Point-Detection-number-2
 excerpt: 'This paper is about change point detection for extreme events.'
 date: 2021-09-01

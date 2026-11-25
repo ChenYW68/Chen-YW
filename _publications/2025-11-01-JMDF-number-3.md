@@ -3,6 +3,7 @@ title: "Joint modeling and dynamic ensemble forecasting of influenza vaccine res
 collection: publications
 category: conferences
 cv_section: methodology
+cv_status: first_round_revision
 permalink: /publication/2025-11-01-JMDF-number-12
 excerpt: 'This paper developed a novel joint modeling and dynamic ensemble forecasting method.'
 date: 2025-11-01
