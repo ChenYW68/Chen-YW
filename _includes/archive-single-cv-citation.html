@@ -1,0 +1,12 @@
+{% include base_path %}
+
+{% capture linked_title %}<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>{% endcapture %}
+{% assign linked_citation = post.citation | replace: post.title, linked_title %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+      <p class="archive__item-excerpt" itemprop="description">{{ linked_citation }}</p>
+    </li>
+  </article>
+</div>

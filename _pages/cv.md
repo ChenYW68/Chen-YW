@@ -69,7 +69,7 @@ Research Paper
   <ul class="cv-publications">{% for status in status_order %}{% assign status_papers = selected_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
-      {% include archive-single-cv.html %}
+      {% include archive-single-cv-citation.html %}
     </div>
     {% assign counter = counter | minus: 1 %}
   {% endfor %}{% endfor %}</ul>
@@ -81,7 +81,7 @@ Research Paper
   <ul class="cv-publications">{% for status in status_order %}{% assign status_papers = methodology_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
-      {% include archive-single-cv.html %}
+      {% include archive-single-cv-citation.html %}
     </div>
     {% assign counter = counter | minus: 1 %}
   {% endfor %}{% endfor %}</ul>
@@ -92,7 +92,7 @@ Research Paper
   <ul class="cv-publications">{% for status in status_order %}{% assign status_papers = collaboration_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
-      {% include archive-single-cv.html %}
+      {% include archive-single-cv-citation.html %}
     </div>
     {% assign counter = counter | minus: 1 %}
   {% endfor %}{% endfor %}</ul>
