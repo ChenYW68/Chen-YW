@@ -111,7 +111,7 @@ Research Paper
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: -2.5em !important;
+  margin-bottom: -1em !important;
   padding-bottom: 0 !important;
 }
 

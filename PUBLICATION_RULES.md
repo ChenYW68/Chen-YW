@@ -88,7 +88,7 @@ The CV panel currently uses these spacing rules:
 }
 
 .publication-item {
-  margin-bottom: -2.5em !important;
+  margin-bottom: -1em !important;
 }
 ```
 
