@@ -60,11 +60,11 @@ R, C++, SQL, Matlab, SAS
 
 Research Paper
 ======
-### Selected publications
+<h3 class="cv-subsection-title">Selected publications</h3>
   {% assign selected_papers = site.publications | where: "cv_selected", true %}
   {% assign counter = selected_papers | size %}
   {% assign status_order = "peer_review,third_round_revision,second_round_revision,first_round_revision,accepted,published" | split: "," %}
-  <ul>{% for status in status_order %}{% assign status_papers = selected_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
+  <ul class="cv-publications">{% for status in status_order %}{% assign status_papers = selected_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
       {% include archive-single-cv.html %}
@@ -72,11 +72,11 @@ Research Paper
     {% assign counter = counter | minus: 1 %}
   {% endfor %}{% endfor %}</ul>
 
-### Statistics & Methodology
+<h3 class="cv-subsection-title">Statistics &amp; Methodology</h3>
   {% assign methodology_papers = site.publications | where: "cv_section", "methodology" | where_exp: "post", "post.cv_selected != true" %}
   {% assign counter = methodology_papers | size %}
   {% assign status_order = "peer_review,third_round_revision,second_round_revision,first_round_revision,accepted,published" | split: "," %}
-  <ul>{% for status in status_order %}{% assign status_papers = methodology_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
+  <ul class="cv-publications">{% for status in status_order %}{% assign status_papers = methodology_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
       {% include archive-single-cv.html %}
@@ -84,10 +84,10 @@ Research Paper
     {% assign counter = counter | minus: 1 %}
   {% endfor %}{% endfor %}</ul>
 
-### Public health & Epidemiology
+<h3 class="cv-subsection-title">Public health &amp; Epidemiology</h3>
   {% assign collaboration_papers = site.publications | where: "cv_section", "collaboration" | where_exp: "post", "post.cv_selected != true" %}
   {% assign counter = collaboration_papers | size %}
-  <ul>{% for status in status_order %}{% assign status_papers = collaboration_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
+  <ul class="cv-publications">{% for status in status_order %}{% assign status_papers = collaboration_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
       {% include archive-single-cv.html %}
@@ -96,6 +96,14 @@ Research Paper
   {% endfor %}{% endfor %}</ul>
 
 <style>
+.cv-subsection-title {
+  margin-bottom: 0.5em !important;
+}
+
+.cv-publications {
+  margin-top: 0 !important;
+}
+
 .publication-item {
   display: flex;
   align-items: baseline;
