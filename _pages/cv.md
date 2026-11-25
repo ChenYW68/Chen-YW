@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I earned my Ph.D. in Statistics from Sun Yat-sen University and am currently an Assistant Research Scientist at the University of Georgia. My research focuses on developing advanced statistical methods and computationally efficient algorithms for complex dependent data, with applications in environmental science, biological sciences, public health, and related fields.
+
 <!--
 Education
 ======
