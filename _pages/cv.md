@@ -62,6 +62,7 @@ R, C++, SQL, Matlab, SAS
 
 Research Paper
 ======
+<p><em>* denotes corresponding author</em></p>
 <h3 class="cv-subsection-title cv-subsection-title--first">First-author publications &amp; Manuscripts under review</h3>
   {% assign selected_papers = site.publications | where: "cv_selected", true %}
   {% assign counter = selected_papers | size %}
