@@ -11,45 +11,33 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% assign posts_in_category = site.publications | where: "category", category[0] | reverse %}
-    {% assign total = posts_in_category | size %}
-    {% assign counter = total %}
-    
-    {% for post in posts_in_category %}
-      {% unless title_shown %}
-        <h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0.5em;">{{ category[1].title }}</h2>
-        {% assign title_shown = true %}
-      {% endunless %}
-      
-      <!-- 添加编号 - 与标题在同一行 -->
-      <div class="publication-item">
-        <span class="publication-number">({{ counter }})</span>
-        {% include archive-single.html %}
-      </div>
-      {% assign counter = counter | minus: 1 %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% assign total = site.publications | size %}
-  {% assign counter = total %}
-  {% for post in site.publications reversed %}
+### Methodology & Statistics
+{% assign methodology_papers = site.publications | where: "cv_section", "methodology" %}
+{% assign counter = methodology_papers | size %}
+<ul>{% for post in methodology_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
-      {% include archive-single.html %}
+      {% include archive-single-cv.html %}
     </div>
     {% assign counter = counter | minus: 1 %}
-  {% endfor %}
-{% endif %}
+{% endfor %}</ul>
+
+### Public health & Epidemiology
+{% assign public_health_papers = site.publications | where: "cv_section", "collaboration" %}
+{% assign counter = public_health_papers | size %}
+<ul>{% for post in public_health_papers reversed %}
+    <div class="publication-item">
+      <span class="publication-number">({{ counter }})</span>
+      {% include archive-single-cv.html %}
+    </div>
+    {% assign counter = counter | minus: 1 %}
+{% endfor %}</ul>
 
 <style>
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: 0.5em !important;
+  margin-bottom: -3em !important;
   padding-bottom: 0 !important;
 }
 
@@ -60,7 +48,7 @@ author_profile: true
   min-width: 25px;
 }
 
-/* 强制重置 archive-single.html 中的所有间距 */
+/* 强制重置 archive-single-cv.html 中的所有间距 */
 .publication-item .archive__item,
 .publication-item .archive__item * {
   margin-top: 0 !important;
@@ -84,12 +72,6 @@ author_profile: true
 
 .publication-item a:hover {
   text-decoration: none !important;
-}
-
-/* 分类标题去掉横线 */
-h2 {
-  border-bottom: none !important;
-  margin-bottom: 0.3em !important;
 }
 
 /* 强制移除所有可能的间隙 */
