@@ -8,7 +8,8 @@ This file defines how to add or update publications in this Jekyll website. Foll
 - The Publications panel is rendered by `_pages/publications.html`.
 - The CV panel is rendered by `_pages/cv.md`.
 - Publication entries must use `_includes/archive-single.html`. This preserves the title, citation, paper, slides, and BibTeX links.
-- CV entries must use `_includes/archive-single-cv.html`.
+- CV publication entries must use `_includes/archive-single-cv-citation.html`, which displays the citation without a duplicate standalone title.
+- The title inside the CV citation links to the publication page by default. Set `cv_title_url` when the title must link directly to a supplied PDF.
 - Do not replace `archive-single.html` with `archive-single-cv.html` in the Publications panel; doing so removes download functions.
 
 ## Required publication metadata
@@ -28,7 +29,9 @@ paperurl: 'URL to the paper PDF'
 citation: 'Complete citation with HTML formatting where needed'
 ```
 
-Use the exact title and author wording supplied in the paper or citation source. Preserve special characters, capitalization, accents, en dashes, and the paper's punctuation.
+Use the exact title and complete author wording supplied in the paper or citation source. Preserve special characters, capitalization, accents, en dashes, and the paper's punctuation.
+
+For published papers, write every author in the citation; do not use `et al.`. Mark each confirmed corresponding author with `*`. Do not infer corresponding authors from author order. The CV panel includes the note `* denotes corresponding author`.
 
 Add `excerpt` when a concise description is available. Add `bibtexurl` and `slidesurl` only when valid resources exist. Do not invent missing links.
 
@@ -39,14 +42,17 @@ Use exactly one of these values for `cv_section`:
 - `methodology`: statistical methodology, modeling, algorithms, clustering, semiparametric methods, change-point methods, or related methodological work.
 - `collaboration`: public health, epidemiology, infectious disease, long COVID, influenza, schistosomiasis applications, or other primarily applied health research.
 
-The visible subsection names are:
+In the CV panel, the visible subsection names are:
 
-- `Statistics & Methodology`
-- `Public health & Epidemiology`
+- `First-author publications & Manuscripts under review`
+- `Statistics & Methodology (Co-authored)`
+- `Public Health & Epidemiology (Co-authored)`
 
-## Selected publications
+The underlying `cv_section` values remain `methodology` and `collaboration`.
 
-The CV panel has a third subsection, `Selected publications`.
+## First-author publications
+
+The first CV subsection is `First-author publications & Manuscripts under review`.
 
 Set:
 
@@ -54,7 +60,7 @@ Set:
 cv_selected: true
 ```
 
-only when Yewen Chen is the first author in the citation. Selected papers are displayed in `Selected publications` and excluded from the other two CV subsections, so they do not appear twice.
+only when Yewen Chen is the first author in the citation. These papers are displayed in the first-author subsection and excluded from the other two CV subsections, so they do not appear twice.
 
 Do not set `cv_selected: true` when Chen Y is a middle author or a coauthor who is not first author. Papers without `cv_selected: true` remain in their assigned `cv_section`.
 
@@ -91,6 +97,8 @@ The CV panel currently uses these spacing rules:
   margin-bottom: -1em !important;
 }
 ```
+
+The first subsection title uses `margin-top: 0.5em`; later subsection titles use `margin-top: 3em`. All subsection titles use `margin-bottom: 0em`, and `.cv-publications` uses zero top margin and padding.
 
 Do not change article-to-article spacing when adding a paper unless explicitly requested. Do not add extra list wrappers or nested list elements that create large gaps or overlapping entries.
 
