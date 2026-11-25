@@ -11,33 +11,33 @@ author_profile: true
 
 {% include base_path %}
 
-### Methodology & Statistics
+<h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0.5em;">Methodology & Statistics</h2>
 {% assign methodology_papers = site.publications | where: "cv_section", "methodology" %}
 {% assign counter = methodology_papers | size %}
-<ul>{% for post in methodology_papers reversed %}
+{% for post in methodology_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     </div>
     {% assign counter = counter | minus: 1 %}
-{% endfor %}</ul>
+{% endfor %}
 
-### Public health & Epidemiology
+<h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0.5em;">Public health &amp; Epidemiology</h2>
 {% assign public_health_papers = site.publications | where: "cv_section", "collaboration" %}
 {% assign counter = public_health_papers | size %}
-<ul>{% for post in public_health_papers reversed %}
+{% for post in public_health_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     </div>
     {% assign counter = counter | minus: 1 %}
-{% endfor %}</ul>
+{% endfor %}
 
 <style>
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: -3em !important;
+  margin-bottom: 0.5em !important;
   padding-bottom: 0 !important;
 }
 
@@ -48,7 +48,7 @@ author_profile: true
   min-width: 25px;
 }
 
-/* 强制重置 archive-single-cv.html 中的所有间距 */
+/* 保持 Publication panel 原有条目间距 */
 .publication-item .archive__item,
 .publication-item .archive__item * {
   margin-top: 0 !important;
