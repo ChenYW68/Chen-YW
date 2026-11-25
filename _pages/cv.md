@@ -64,8 +64,7 @@ Review Activity
 
 Research Paper
 ======
-Methodology & Statistics
-------------------------
+### Methodology & Statistics
   {% assign methodology_papers = site.publications | where: "cv_section", "methodology" %}
   {% assign counter = methodology_papers | size %}
   <ul>{% for post in methodology_papers reversed %}
@@ -76,8 +75,7 @@ Methodology & Statistics
     {% assign counter = counter | minus: 1 %}
   {% endfor %}</ul>
 
-Collaboration & Epidemiology
-----------------------------
+### Public health & Epidemiology
   {% assign collaboration_papers = site.publications | where: "cv_section", "collaboration" %}
   {% assign counter = collaboration_papers | size %}
   <ul>{% for post in collaboration_papers reversed %}
