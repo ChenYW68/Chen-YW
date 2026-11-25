@@ -62,7 +62,7 @@ R, C++, SQL, Matlab, SAS
 
 Research Paper
 ======
-<h3 class="cv-subsection-title cv-subsection-title--first">Selected publications</h3>
+<h3 class="cv-subsection-title cv-subsection-title--first">First-author publications &amp; Manuscripts under review</h3>
   {% assign selected_papers = site.publications | where: "cv_selected", true %}
   {% assign counter = selected_papers | size %}
   {% assign status_order = "peer_review,third_round_revision,second_round_revision,first_round_revision,accepted,published" | split: "," %}
@@ -74,7 +74,7 @@ Research Paper
     {% assign counter = counter | minus: 1 %}
   {% endfor %}{% endfor %}</ul>
 
-<h3 class="cv-subsection-title">Statistics &amp; Methodology</h3>
+<h3 class="cv-subsection-title">Statistics &amp; Methodology (Co-authored)</h3>
   {% assign methodology_papers = site.publications | where: "cv_section", "methodology" | where_exp: "post", "post.cv_selected != true" %}
   {% assign counter = methodology_papers | size %}
   {% assign status_order = "peer_review,third_round_revision,second_round_revision,first_round_revision,accepted,published" | split: "," %}
@@ -86,7 +86,7 @@ Research Paper
     {% assign counter = counter | minus: 1 %}
   {% endfor %}{% endfor %}</ul>
 
-<h3 class="cv-subsection-title">Public health &amp; Epidemiology</h3>
+<h3 class="cv-subsection-title">Public Health &amp; Epidemiology (Co-authored)</h3>
   {% assign collaboration_papers = site.publications | where: "cv_section", "collaboration" | where_exp: "post", "post.cv_selected != true" %}
   {% assign counter = collaboration_papers | size %}
   <ul class="cv-publications">{% for status in status_order %}{% assign status_papers = collaboration_papers | where: "cv_status", status %}{% for post in status_papers reversed %}
