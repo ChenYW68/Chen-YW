@@ -62,7 +62,7 @@ R, C++, SQL, Matlab, SAS
 
 Research Paper
 ======
-<h3 class="cv-subsection-title">Selected publications</h3>
+<h3 class="cv-subsection-title cv-subsection-title--first">Selected publications</h3>
   {% assign selected_papers = site.publications | where: "cv_selected", true %}
   {% assign counter = selected_papers | size %}
   {% assign status_order = "peer_review,third_round_revision,second_round_revision,first_round_revision,accepted,published" | split: "," %}
@@ -101,6 +101,10 @@ Research Paper
 .cv-subsection-title {
   margin-top: 3em !important;
   margin-bottom: -1em !important;
+}
+
+.cv-subsection-title--first {
+  margin-top: 0.5em !important;
 }
 
 .cv-publications {
