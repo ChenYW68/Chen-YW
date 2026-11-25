@@ -109,7 +109,7 @@ Research Paper
 .publication-item {
   display: flex;
   align-items: baseline;
-  margin-bottom: 0.6em !important;
+  margin-bottom: -2em !important;
   padding-bottom: 0 !important;
 }
 
