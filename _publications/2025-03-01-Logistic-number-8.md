@@ -1,5 +1,5 @@
 ---
-title: "Development and external validation of the FluScoreVax risk score for influenza that incorporates vaccine status"
+title: "Development and External Validation of the FluScoreVax Risk Score for Influenza That Incorporates Vaccine Status"
 collection: publications
 category: manuscripts
 cv_section: collaboration
@@ -10,6 +10,7 @@ date: 2025-03-01
 venue: 'The Journal of the American Board of Family Medicine'
 #slidesurl: 'https://chenyw68.github.io/Chen-YW/files/Development and External Validation of the FluScoreVax Risk Score for Influenza That Incorporates Vaccine Status.pdf'
 paperurl: 'https://chenyw68.github.io/Chen-YW/files/Development and External Validation of the FluScoreVax Risk Score for Influenza That Incorporates Vaccine Status.pdf'
+cv_title_url: 'https://chenyw68.github.io/Chen-YW/files/Development and External Validation of the FluScoreVax Risk Score for Influenza That Incorporates Vaccine Status.pdf'
 bibtexurl: 'https://chenyw68.github.io/Chen-YW/files/Ebell2025development.bib'
 citation: 'Ebell MH*, <strong>Chen Y</strong>, Luo F, Shen Y, Coenen S, Little P, Barrett B, Merenstein D, and Ieven M. (2025). &quot;Development and External Validation of the FluScoreVax Risk Score for Influenza That Incorporates Vaccine Status.&quot; <i>The Journal of the American Board of Family Medicine</i>. 38(3): 401-410.'
 ---

@@ -1,6 +1,7 @@
 {% include base_path %}
 
-{% capture linked_title %}<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>{% endcapture %}
+{% assign title_url = post.cv_title_url | default: post.url %}
+{% capture linked_title %}<a href="{% if post.cv_title_url %}{{ title_url }}{% else %}{{ base_path }}{{ title_url }}{% endif %}" rel="permalink">{{ post.title }}</a>{% endcapture %}
 {% assign linked_citation = post.citation | replace: post.title, linked_title %}
 
 <div class="{{ include.type | default: "list" }}__item">
