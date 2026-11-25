@@ -11,7 +11,8 @@ redirect_from:
 
 I earned my Ph.D. in Statistics from Sun Yat-sen University, China and am currently an Assistant Research Scientist at the University of Georgia, USA. My research expertise lies in developing advanced statistical methodologies and computationally efficient algorithms for modeling and analyzing complex dependent data, with a particular emphasis on interdisciplinary applications in public health, environmental science, biological sciences, and related fields.
 
-## Education and Professional Experience
+Education and Professional Experience
+======
 
 **November 2026 – Present**<br>
 Assistant Research Scientist<br>
