@@ -81,6 +81,7 @@ author_profile: true
 .research-project__content h3 {
   margin-top: 0;
   margin-bottom: 0.5em;
+  font-size: 1.5em;
 }
 
 .research-project__content p {
