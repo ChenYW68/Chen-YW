@@ -43,7 +43,7 @@ author_profile: true
       <h3>Risk assessments</h3>
       <p>I provide novel insights into defining and optimizing exposure windows for risk assessment, leveraging advanced ensemble cross-fitted double/debiased machine learning approaches to improve the quantification of disease burden, identify high-risk populations, and characterize geographic and social disparities. Long COVID research provides an example of how comorbidities and social determinants can be integrated to estimate attributable burden and guide prevention priorities.</p>
       <p><strong>Example:</strong> Comorbidity exposure windows and multidimensional disparities in long COVID risk in a US national cohort.</p>
-      <p><strong>Collaborators:</strong> Statistics, Public health, epidemiology, and clinical research collaborators using large electronic health record cohorts.</p>
+      <p><strong>Collaborators:</strong> Statistics, public health, epidemiology, and clinical research collaborators using large electronic health record cohorts.</p>
       <p><a href="{{ base_path }}/publication/2027-01-01-LongCOVID-comorbidity" rel="permalink">Continue reading</a></p>
     </div>
   </article>
@@ -74,7 +74,7 @@ author_profile: true
 
 .research-project__image--multiple {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: 1fr;
   gap: 0.75em;
 }
 
@@ -93,8 +93,5 @@ author_profile: true
     gap: 1em;
   }
 
-  .research-project__image--multiple {
-    grid-template-columns: 1fr;
-  }
 }
 </style>
