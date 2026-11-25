@@ -2,6 +2,7 @@
 title: "Identifying key aspects to enhance predictive modeling for early identification of schistosomiasis hotspots to guide mass drug administration"
 collection: publications
 category: manuscripts
+cv_section: collaboration
 permalink: /publication/2025-06-01-Hotspots-number-9
 excerpt: 'This paper developed prediction methods for the first (baseline) year to identify hotspots of Schistosomiasis. '
 date: 2025-06-01

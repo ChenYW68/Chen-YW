@@ -2,6 +2,7 @@
 title: "Additive dynamic models for correcting numerical model outputs"
 collection: publications
 category: manuscripts
+cv_section: methodology
 permalink: /publication/2023-06-01-paper-title-number-2
 excerpt: 'This paper developed additive dynamic models with high efficient algorithms for statistical bias-correction.'
 date: 2023-06-01

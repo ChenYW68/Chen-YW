@@ -2,6 +2,7 @@
 title: "Generalized Pareto distribution change-point detection model and its applications in modeling return period prediction"
 collection: publications
 category: manuscripts
+cv_section: methodology
 permalink: /publication/2021-09-01-Change-Point-Detection-number-2
 excerpt: 'This paper is about change point detection for extreme events.'
 date: 2021-09-01

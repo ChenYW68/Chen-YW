@@ -2,6 +2,7 @@
 title: "Joint modeling and dynamic ensemble forecasting of influenza vaccine responses from complex longitudinal trajectories"
 collection: publications
 category: conferences
+cv_section: collaboration
 permalink: /publication/2025-11-01-JMDF-number-12
 excerpt: 'This paper developed a novel joint modeling and dynamic ensemble forecasting method.'
 date: 2025-11-01

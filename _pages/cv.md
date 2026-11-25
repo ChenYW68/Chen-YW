@@ -64,9 +64,23 @@ Review Activity
 
 Research Paper
 ======
-  {% assign total = site.publications | size %}
-  {% assign counter = total %}
-  <ul>{% for post in site.publications reversed %}
+Methodology & Statistics
+------------------------
+  {% assign methodology_papers = site.publications | where: "cv_section", "methodology" %}
+  {% assign counter = methodology_papers | size %}
+  <ul>{% for post in methodology_papers reversed %}
+    <div class="publication-item">
+      <span class="publication-number">({{ counter }})</span>
+      {% include archive-single-cv.html %}
+    </div>
+    {% assign counter = counter | minus: 1 %}
+  {% endfor %}</ul>
+
+Collaboration & Epidemiology
+----------------------------
+  {% assign collaboration_papers = site.publications | where: "cv_section", "collaboration" %}
+  {% assign counter = collaboration_papers | size %}
+  <ul>{% for post in collaboration_papers reversed %}
     <div class="publication-item">
       <span class="publication-number">({{ counter }})</span>
       {% include archive-single-cv.html %}

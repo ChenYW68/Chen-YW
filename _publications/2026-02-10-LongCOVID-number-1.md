@@ -2,6 +2,7 @@
 title: "Mapping spatial and social inequities of long COVID across the United States: A retrospective cohort study"
 collection: publications
 category: manuscripts
+cv_section: collaboration
 permalink: /publication/2026-02-10-LongCOVID-number-1
 excerpt: 'This paper investigated the spatiotemporal patterns of long COVID incidence.'
 date: 2026-02-10
