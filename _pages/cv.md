@@ -97,11 +97,12 @@ Research Paper
 
 <style>
 .cv-subsection-title {
-  margin-bottom: 0.5em !important;
+  margin-bottom: 0.1em !important;
 }
 
 .cv-publications {
   margin-top: 0 !important;
+  padding-top: 0 !important;
 }
 
 .publication-item {
