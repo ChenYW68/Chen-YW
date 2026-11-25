@@ -56,26 +56,10 @@ author_profile: true
     </div>
     <div class="research-project__content">
       <h3>Single-cell and spatial transcriptomics data analysis</h3>
-      <p>I develop spatially varying coefficient methods for single-cell and spatial transcriptomics data to connect local cellular neighborhoods with gene expression and tumor microenvironment biology.</p>
-      <p><strong>Research questions:</strong></p>
-      <ul>
-        <li>Do macrophage-rich neighborhoods correspond to localized ERBB2-high or ERBB2-low tumor subpopulations?</li>
-        <li>Does the direction and magnitude of spatially heterogeneous associations vary systematically across biologically distinct tissue compartments, and are these patterns reproducible?</li>
-        <li>How do local biological features contribute to spatial confounding and affect inference on spatially varying coefficients?</li>
-      </ul>
-      <p><strong>Interpretation:</strong></p>
-      <ul>
-        <li>The estimated coefficients identify locations within the tumor microenvironment where local macrophage abundance is associated with ERBB2 expression and quantify the magnitude of that association.</li>
-        <li>Higher ERBB2 transcript counts alone do not necessarily indicate increased tumor aggressiveness.</li>
-        <li>Regions with positive coefficients exhibit HER2-related tumor biological characteristics, where HER2 plays a role in regulating cell growth and proliferation.</li>
-      </ul>
-      <p><strong>Methodological contributions:</strong></p>
-      <ul>
-        <li><strong>Computational efficiency:</strong> SEVI provides a scalable framework for modeling spatially varying coefficients through multi-stage estimation for large-scale datasets.</li>
-        <li><strong>Spatial confounding:</strong> Multi-stage estimation can mitigate spatial confounding and improve estimation of spatially heterogeneous associations.</li>
-        <li><strong>Biological applications:</strong> The method provides high-resolution spatial surfaces for investigating where and under what tumor microenvironment conditions macrophage abundance is associated with ERBB2 expression.</li>
-        <li><strong>Biological insights:</strong> The analysis characterizes spatial heterogeneity in macrophage–tumor associations and may reveal tissue-dependent relationships across distinct tumor microenvironments.</li>
-      </ul>
+      <p>Focusing on developing scalable spatially varying coefficient methods and multi-stage estimation algorithms for single-cell and spatial transcriptomics data, with an emphasis on characterizing localized associations between macrophage abundance and ERBB2 expression, accounting for spatial confounding, and quantifying heterogeneity across biologically distinct tissue compartments. The overarching goal is to identify reproducible tumor microenvironment patterns, improve inference on spatially heterogeneous associations, and generate high-resolution spatial surfaces that reveal where local biological features are associated with tumor-related gene expression.</p>
+      <p><strong>Example:</strong> Characterizing spatially varying associations between macrophage abundance and ERBB2 expression, identifying localized tumor microenvironment patterns, and quantifying cellular heterogeneity across distinct tissue compartments, etc.</p>
+      <p><strong>Collaborators:</strong> Biostatistics, computational biology, bioinformatics, cancer biology, pathology, and oncology using Xenium or CosMx datasets</p>
+      <p><a href="#" rel="permalink">Continue reading</a></p>
     </div>
   </article>
 </div>
