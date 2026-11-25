@@ -54,9 +54,11 @@ Review Activity
 * Biostatistics & Epidemiology
 * ...
 
+<!--
 Skills
 ======
 R, C++, SQL, Matlab, SAS
+-->
 
 Research Paper
 ======
