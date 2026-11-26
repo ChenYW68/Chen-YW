@@ -40,7 +40,6 @@ author_profile: true
 
   <article class="research-project">
     <div class="research-project__image research-project__image--multiple">
-      <img src="{{ base_path }}/images/Research/R3_lc_1.png" alt="Geographic variation in Long COVID risk assessment">
       <img src="{{ base_path }}/images/Research/R3_lc_2.png" alt="Long COVID risk assessment summary">
     </div>
     <div class="research-project__content">
