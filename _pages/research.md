@@ -12,7 +12,6 @@ author_profile: true
     <div class="research-project__image research-project__image--multiple">
       <img src="{{ base_path }}/images/Research/R1_SCORE_1.png" alt="Ranks of schistosomiasis treatment effects">
       <img src="{{ base_path }}/images/Research/R1_SCORE_2.png" alt="Schistosomiasis treatment effect estimates">
-      <img src="{{ base_path }}/images/Research/R1_SCORE_3.jpg" alt="Schistosomiasis treatment effect comparison">
       <img src="{{ base_path }}/images/Research/R1_SCORE_4.png" alt="Schistosomiasis treatment effect summary">
     </div>
     <div class="research-project__content">
@@ -55,7 +54,6 @@ author_profile: true
 
   <article class="research-project">
     <div class="research-project__image research-project__image--multiple">
-      <img src="{{ base_path }}/images/Research/R4_Cell_1.png" alt="Cellular neighborhoods in spatial transcriptomics data">
       <img src="{{ base_path }}/images/Research/R4_Cell_2.png" alt="Sample spatial transcriptomics image from a HER2 3+ tumor section">
       <img src="{{ base_path }}/images/Research/R4_Cell_3.png" alt="Spatial transcriptomics image from a HER2 3+ tumor section">
     </div>
