@@ -68,6 +68,12 @@ author_profile: true
 </div>
 
 <style>
+@media screen and (min-width: 1024px) {
+  #main .archive--research {
+    width: calc(83.333333% + 3%);
+  }
+}
+
 .research-projects {
   margin-top: 1em;
   display: grid;
