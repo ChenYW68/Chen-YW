@@ -70,14 +70,13 @@ author_profile: true
 <style>
 .research-projects {
   margin-top: 1em;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 2.5em 2em;
 }
 
 .research-project {
-  display: grid;
-  grid-template-columns: minmax(180px, 28%) 1fr;
-  gap: 2em;
-  align-items: start;
-  margin: 0 0 2.5em;
+  display: contents;
 }
 
 .research-project__image {
@@ -107,7 +106,13 @@ author_profile: true
 }
 
 @media screen and (max-width: 600px) {
+  .research-projects {
+    grid-template-columns: 1fr;
+    gap: 1.5em;
+  }
+
   .research-project {
+    display: grid;
     grid-template-columns: 1fr;
     gap: 1em;
   }
