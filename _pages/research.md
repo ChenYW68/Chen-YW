@@ -9,10 +9,8 @@ author_profile: true
 
 <div class="research-projects">
   <article class="research-project">
-    <div class="research-project__image research-project__image--multiple">
-      <img src="{{ base_path }}/images/Research/R1_SCORE_1.png" alt="Ranks of schistosomiasis treatment effects">
-      <img src="{{ base_path }}/images/Research/R1_SCORE_2.png" alt="Schistosomiasis treatment effect estimates">
-      <img src="{{ base_path }}/images/Research/R1_SCORE_4.png" alt="Schistosomiasis treatment effect summary">
+    <div class="research-project__image">
+      <img src="{{ base_path }}/images/Research/R1.png" alt="Bayesian inference for schistosomiasis treatment effects">
     </div>
     <div class="research-project__content">
       <h3>Bayesian inference for complex dependent data</h3>
@@ -24,10 +22,8 @@ author_profile: true
   </article>
 
   <article class="research-project">
-    <div class="research-project__image research-project__image--multiple">
-      <img src="{{ base_path }}/images/Research/R2_uga_ens_1.png" alt="Weighted ensemble mean for influenza vaccine response prediction">
-      <img src="{{ base_path }}/images/Research/R2_uga_ens_2.png" alt="Monte Carlo based ensemble standard deviation for influenza vaccine response prediction">
-      <img src="{{ base_path }}/images/Research/R2_uga_ens_3.png" alt="Influenza vaccine response prediction summary">
+    <div class="research-project__image">
+      <img src="{{ base_path }}/images/Research/R2.png" alt="Predictive models for influenza vaccine response prediction">
     </div>
     <div class="research-project__content">
       <h3>Development of predictive models for longitudinal, spatial, and spatiotemporal data</h3>
@@ -39,8 +35,8 @@ author_profile: true
   </article>
 
   <article class="research-project">
-    <div class="research-project__image research-project__image--multiple">
-      <img src="{{ base_path }}/images/Research/R3_lc_2.png" alt="Long COVID risk assessment summary">
+    <div class="research-project__image">
+      <img src="{{ base_path }}/images/Research/R3.png" alt="Geographic variation in Long COVID risk assessment">
     </div>
     <div class="research-project__content">
       <h3>Risk assessment and multidimensional heterogeneity in chronic diseases</h3>
@@ -52,9 +48,8 @@ author_profile: true
   </article>
 
   <article class="research-project">
-    <div class="research-project__image research-project__image--multiple">
-      <img src="{{ base_path }}/images/Research/R4_Cell_2.png" alt="Sample spatial transcriptomics image from a HER2 3+ tumor section">
-      <img src="{{ base_path }}/images/Research/R4_Cell_3.png" alt="Spatial transcriptomics image from a HER2 3+ tumor section">
+    <div class="research-project__image">
+      <img src="{{ base_path }}/images/Research/R4.png" alt="Single-cell and spatial transcriptomics analysis">
     </div>
     <div class="research-project__content">
       <h3>Single-cell and spatial transcriptomics data analysis</h3>
