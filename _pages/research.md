@@ -14,7 +14,7 @@ author_profile: true
     </div>
     <div class="research-project__content">
       <h3>Bayesian inference for complex dependent data</h3>
-      <p>Focusing on developing Bayesian statistical methods for inference and causal effect estimation in complex dependent data, particularly those exhibiting spatial, temporal, and spatiotemporal dependence. The overarching goal is to characterize dependence structures, quantify uncertainty, and estimate direct and indirect effects while accounting for heterogeneity and potential interference across observational units.</p>
+      <p>Focusing on developing Bayesian statistical methods for inference and causal effect estimation in complex dependent data, particularly those exhibiting spatial, temporal, or spatiotemporal dependence. The overarching goal is to characterize dependence structures, quantify uncertainty, and estimate direct and indirect effects while accounting for heterogeneity and potential interference across observational units.</p>
       <p><strong>Example:</strong> Identifying effective schistosomiasis treatment sequences for mass drug administration in spatiotemporal trials, early detection of disease hotspots, and characterization of their spatiotemporal evolution.</p>
       <p><strong>Collaborators:</strong> Biostatistics, public health, and epidemiology researchers working on schistosomiasis control.</p>
       <p><a href="{{ base_path }}/publication/2025-10-01-JSTVC-number-2" rel="permalink">Continue reading</a></p>
@@ -27,7 +27,7 @@ author_profile: true
     </div>
     <div class="research-project__content">
       <h3>Development of predictive models for longitudinal, spatial, and spatiotemporal data</h3>
-      <p> Focusing on developing advanced Gaussian process inference methods for modeling complex longitudinal, spatial, and spatiotemporal data, with an emphasis on capturing complex dependence structures, nonlinear interactions, and individual heterogeneity. The overarching goal is to improve predictive accuracy, robustness, and uncertainty quantification, with applications in public health, environmental sciences, and precision medicine. </p>
+      <p> Focusing on developing advanced Gaussian process inference methods for modeling complex longitudinal, spatial, or spatiotemporal data, with an emphasis on capturing complex dependence structures, nonlinear interactions, and individual heterogeneity. The overarching goal is to improve predictive accuracy, robustness, and uncertainty quantification, with applications in public health, environmental sciences, and precision medicine. </p>
       <p><strong>Example:</strong> Air pollution concentration calibration and prediction, and individualized prediction of influenza vaccine responses.</p>
       <p><strong>Collaborators:</strong> Biostatistics and epidemiology researchers studying influenza vaccines.</p>
       <p><a href="{{ base_path }}/publication/2025-11-01-JMDF-number-3" rel="permalink">Continue reading</a></p>
@@ -40,7 +40,7 @@ author_profile: true
     </div>
     <div class="research-project__content">
       <h3>Risk assessment and multidimensional heterogeneity in chronic diseases</h3>
-      <p>Focusing on developing advanced ensemble double/debiased machine learning methods for risk assessment and disease burden quantification, with an emphasis on defining and optimizing exposure windows, estimating attributable risks, and characterizing complex interactions and population heterogeneity. The overarching goal is to improve the identification of high-risk populations, quantify the contributions of multiple risk factors, and characterize geographic and social disparities to inform targeted prevention strategies.</p>
+      <p>Focusing on developing advanced ensemble double/debiased machine learning methods for risk assessment and disease burden quantification, with an emphasis on defining and optimizing exposure windows, estimating attributable risks, and characterizing complex interactions. The overarching goal is to improve the identification of high-risk populations, quantify the contributions of multiple risk factors, and characterize geographic and social disparities to inform targeted prevention strategies.</p>
       <p><strong>Example:</strong> Comorbidity exposure windows and multidimensional disparities in long COVID risk in a US national cohort.</p>
       <p><strong>Collaborators:</strong> Statistics, public health, epidemiology, and clinical research collaborators using large electronic health record cohorts.</p>
       <p><a href="{{ base_path }}/publication/" rel="permalink">Continue reading</a></p>
