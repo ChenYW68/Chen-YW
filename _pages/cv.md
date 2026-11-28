@@ -70,6 +70,8 @@ Review Activity
 * Computational Statistics & Data Analysis
 * Aerosol and Air Quality Research
 * Biostatistics & Epidemiology
+* BMC Public Health
+* Public Policy Journal
 * ...
 
 <!--

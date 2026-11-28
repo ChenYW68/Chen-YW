@@ -28,18 +28,3 @@ Longitudinal measurement trajectories have become increasingly valuable for deep
   </figcaption>
 </figure>
 
-<figure id="Figure2">
-  <table align="center">
-    <tr>
-      <td><img src="https://chenyw68.github.io/Chen-YW/images/Papers/Fig5_1.jpg" width="500px"></td>
-      <td><img src="https://chenyw68.github.io/Chen-YW/images/Papers/Fig5_2.jpg" width="500px"></td>
-    </tr>
-    <tr>
-      <td><img src="https://chenyw68.github.io/Chen-YW/images/Papers/Fig5_3.jpg" width="500px"></td>
-      <td><img src="https://chenyw68.github.io/Chen-YW/images/Papers/Fig5_4.jpg" width="500px"></td>
-    </tr>
-  </table>
-  <figcaption align="center">
-    <strong>Figure 2:</strong> The interaction effects between human age and historical longitudinal pre-vaccination HAI titers on future vaccination responses.
-  </figcaption>
-</figure>
